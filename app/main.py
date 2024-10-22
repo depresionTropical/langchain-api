@@ -67,7 +67,7 @@ def get_personas(region: str = None, institucion: str = None, departamento: str 
         #     resultados['regiones'] = list(set(regiones))
 
         resultados = filtro(region=region, institucion=institucion, departamento=departamento, id=id, nacional=nacional)
-        print(resultados)
+        #print(resultados)
 
         if not resultados:
             raise HTTPException(status_code=404, detail="No se encontraron resultados con esos filtros")
