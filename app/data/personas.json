@@ -3,493 +3,493 @@
         "_id": 1,
         "basicas": {
             "actitudes": {
-                "Madurez": 69,
-                "Responsabilidad": 49,
-                "Empat\u00eda": 94,
-                "Respeto": 100,
-                "Compasi\u00f3n": 49,
-                "Aceptaci\u00f3n Incondicional": 92,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 46,
-                "Observaci\u00f3n": 93
+                "Madurez": 48,
+                "Responsabilidad": 55,
+                "Empat\u00eda": 31,
+                "Respeto": 72,
+                "Compasi\u00f3n": 79,
+                "Aceptaci\u00f3n Incondicional": 36,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 63,
+                "Observaci\u00f3n": 84
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 43,
+                "Habilidades Interpersonales": 55,
                 "Manejo de Afectividad": 69,
                 "Planificaci\u00f3n": 85
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 57,
-                "Valoraci\u00f3n": 95,
-                "Discreci\u00f3n": 45,
-                "Resiliencia": 76,
-                "Adaptabilidad": 88,
-                "Compromiso": 93,
-                "Inter\u00e9s": 84,
-                "Integridad": 50
+                "Tolerancia": 58,
+                "Valoraci\u00f3n": 99,
+                "Discreci\u00f3n": 43,
+                "Resiliencia": 68,
+                "Adaptabilidad": 63,
+                "Compromiso": 99,
+                "Inter\u00e9s": 46,
+                "Integridad": 47
             },
             "aptitudes": {
-                "Manejo de Grupo": 65,
-                "Mentalidad de Crecimiento": 96,
-                "Aptitudes Organizativas": 100
+                "Manejo de Grupo": 15,
+                "Mentalidad de Crecimiento": 39,
+                "Aptitudes Organizativas": 22
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 81,
-                "Optimismo": 55,
-                "Altruismo": 44,
-                "Autenticidad": 80,
-                "Proactividad": 53,
-                "Credibilidad": 81,
-                "Humildad": 43
+                "Curiosidad": 49,
+                "Optimismo": 23,
+                "Altruismo": 35,
+                "Autenticidad": 50,
+                "Proactividad": 19,
+                "Credibilidad": 21,
+                "Humildad": 19
             },
             "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 88,
-                "Habilidades de Pensamiento Reflexivo": 93
+                "Promover Desarrollo Aut\u00f3nomo": 72,
+                "Habilidades de Pensamiento Reflexivo": 76
             }
         },
         "personalidad": {
-            "Consciencia": 83,
-            "Amabilidad": 81,
-            "Neuroticismo": 51,
-            "Extraversi\u00f3n": 59,
-            "Intelecto-Imaginaci\u00f3n": 93
+            "Consciencia": 52,
+            "Amabilidad": 78,
+            "Neuroticismo": 33,
+            "Extraversi\u00f3n": 18,
+            "Intelecto-Imaginaci\u00f3n": 16
         },
-        "departamento": "Qu\u00edmica",
+        "departamento": "Sistemas",
         "region": "Centro",
-        "institucion": "Instituci\u00f3n 3"
+        "institucion": "Instituci\u00f3n 2"
     },
     "Persona 2": {
         "_id": 2,
         "basicas": {
             "actitudes": {
-                "Madurez": 48,
-                "Responsabilidad": 43,
-                "Empat\u00eda": 43,
-                "Respeto": 66,
-                "Compasi\u00f3n": 73,
-                "Aceptaci\u00f3n Incondicional": 93,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 58,
-                "Observaci\u00f3n": 86
+                "Madurez": 67,
+                "Responsabilidad": 79,
+                "Empat\u00eda": 35,
+                "Respeto": 62,
+                "Compasi\u00f3n": 83,
+                "Aceptaci\u00f3n Incondicional": 47,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 55,
+                "Observaci\u00f3n": 62
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 96,
-                "Manejo de Afectividad": 88,
-                "Planificaci\u00f3n": 78
+                "Habilidades Interpersonales": 93,
+                "Manejo de Afectividad": 23,
+                "Planificaci\u00f3n": 23
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 100,
-                "Valoraci\u00f3n": 40,
-                "Discreci\u00f3n": 88,
-                "Resiliencia": 91,
-                "Adaptabilidad": 50,
-                "Compromiso": 55,
-                "Inter\u00e9s": 92,
-                "Integridad": 96
+                "Tolerancia": 59,
+                "Valoraci\u00f3n": 21,
+                "Discreci\u00f3n": 99,
+                "Resiliencia": 88,
+                "Adaptabilidad": 26,
+                "Compromiso": 76,
+                "Inter\u00e9s": 80,
+                "Integridad": 47
             },
             "aptitudes": {
-                "Manejo de Grupo": 80,
-                "Mentalidad de Crecimiento": 73,
-                "Aptitudes Organizativas": 86
+                "Manejo de Grupo": 85,
+                "Mentalidad de Crecimiento": 89,
+                "Aptitudes Organizativas": 49
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 89,
-                "Optimismo": 76,
-                "Altruismo": 71,
-                "Autenticidad": 64,
-                "Proactividad": 68,
-                "Credibilidad": 85,
-                "Humildad": 55
+                "Curiosidad": 91,
+                "Optimismo": 53,
+                "Altruismo": 82,
+                "Autenticidad": 84,
+                "Proactividad": 56,
+                "Credibilidad": 67,
+                "Humildad": 66
             },
             "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 66,
-                "Habilidades de Pensamiento Reflexivo": 41
+                "Promover Desarrollo Aut\u00f3nomo": 39,
+                "Habilidades de Pensamiento Reflexivo": 35
             }
         },
         "personalidad": {
-            "Consciencia": 92,
-            "Amabilidad": 86,
-            "Neuroticismo": 73,
-            "Extraversi\u00f3n": 83,
-            "Intelecto-Imaginaci\u00f3n": 88
+            "Consciencia": 98,
+            "Amabilidad": 17,
+            "Neuroticismo": 48,
+            "Extraversi\u00f3n": 52,
+            "Intelecto-Imaginaci\u00f3n": 26
         },
-        "departamento": "Civil",
-        "region": "Centro",
-        "institucion": "Instituci\u00f3n 3"
+        "departamento": "Sistemas",
+        "region": "Norte",
+        "institucion": "Instituci\u00f3n 2"
     },
     "Persona 3": {
         "_id": 3,
         "basicas": {
             "actitudes": {
-                "Madurez": 51,
-                "Responsabilidad": 74,
-                "Empat\u00eda": 99,
-                "Respeto": 56,
-                "Compasi\u00f3n": 85,
-                "Aceptaci\u00f3n Incondicional": 70,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 75,
-                "Observaci\u00f3n": 93
+                "Madurez": 69,
+                "Responsabilidad": 55,
+                "Empat\u00eda": 35,
+                "Respeto": 30,
+                "Compasi\u00f3n": 17,
+                "Aceptaci\u00f3n Incondicional": 46,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 39,
+                "Observaci\u00f3n": 50
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 56,
-                "Manejo de Afectividad": 44,
-                "Planificaci\u00f3n": 68
+                "Habilidades Interpersonales": 62,
+                "Manejo de Afectividad": 22,
+                "Planificaci\u00f3n": 63
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 79,
-                "Valoraci\u00f3n": 55,
-                "Discreci\u00f3n": 57,
-                "Resiliencia": 80,
-                "Adaptabilidad": 43,
-                "Compromiso": 93,
-                "Inter\u00e9s": 72,
-                "Integridad": 83
+                "Tolerancia": 64,
+                "Valoraci\u00f3n": 23,
+                "Discreci\u00f3n": 25,
+                "Resiliencia": 79,
+                "Adaptabilidad": 59,
+                "Compromiso": 57,
+                "Inter\u00e9s": 52,
+                "Integridad": 72
             },
             "aptitudes": {
-                "Manejo de Grupo": 65,
-                "Mentalidad de Crecimiento": 78,
-                "Aptitudes Organizativas": 71
+                "Manejo de Grupo": 91,
+                "Mentalidad de Crecimiento": 56,
+                "Aptitudes Organizativas": 44
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 78,
-                "Optimismo": 61,
-                "Altruismo": 64,
-                "Autenticidad": 95,
-                "Proactividad": 51,
-                "Credibilidad": 83,
-                "Humildad": 100
+                "Curiosidad": 67,
+                "Optimismo": 21,
+                "Altruismo": 72,
+                "Autenticidad": 38,
+                "Proactividad": 82,
+                "Credibilidad": 20,
+                "Humildad": 17
             },
             "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 46,
-                "Habilidades de Pensamiento Reflexivo": 73
+                "Promover Desarrollo Aut\u00f3nomo": 58,
+                "Habilidades de Pensamiento Reflexivo": 46
             }
         },
         "personalidad": {
-            "Consciencia": 62,
-            "Amabilidad": 96,
-            "Neuroticismo": 100,
-            "Extraversi\u00f3n": 67,
-            "Intelecto-Imaginaci\u00f3n": 100
+            "Consciencia": 43,
+            "Amabilidad": 47,
+            "Neuroticismo": 32,
+            "Extraversi\u00f3n": 15,
+            "Intelecto-Imaginaci\u00f3n": 62
         },
-        "departamento": "Electr\u00f3nica",
-        "region": "Norte",
-        "institucion": "Instituci\u00f3n 3"
+        "departamento": "Civil",
+        "region": "Centro",
+        "institucion": "Instituci\u00f3n 1"
     },
     "Persona 4": {
         "_id": 4,
         "basicas": {
             "actitudes": {
-                "Madurez": 73,
-                "Responsabilidad": 85,
-                "Empat\u00eda": 48,
+                "Madurez": 94,
+                "Responsabilidad": 28,
+                "Empat\u00eda": 43,
                 "Respeto": 45,
-                "Compasi\u00f3n": 76,
-                "Aceptaci\u00f3n Incondicional": 81,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 70,
-                "Observaci\u00f3n": 83
+                "Compasi\u00f3n": 64,
+                "Aceptaci\u00f3n Incondicional": 45,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 28,
+                "Observaci\u00f3n": 75
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 76,
-                "Manejo de Afectividad": 92,
-                "Planificaci\u00f3n": 66
+                "Habilidades Interpersonales": 34,
+                "Manejo de Afectividad": 55,
+                "Planificaci\u00f3n": 67
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 84,
-                "Valoraci\u00f3n": 90,
-                "Discreci\u00f3n": 88,
-                "Resiliencia": 68,
-                "Adaptabilidad": 86,
-                "Compromiso": 83,
-                "Inter\u00e9s": 50,
-                "Integridad": 85
+                "Tolerancia": 97,
+                "Valoraci\u00f3n": 29,
+                "Discreci\u00f3n": 47,
+                "Resiliencia": 85,
+                "Adaptabilidad": 42,
+                "Compromiso": 23,
+                "Inter\u00e9s": 62,
+                "Integridad": 40
             },
             "aptitudes": {
-                "Manejo de Grupo": 78,
-                "Mentalidad de Crecimiento": 55,
-                "Aptitudes Organizativas": 93
+                "Manejo de Grupo": 79,
+                "Mentalidad de Crecimiento": 26,
+                "Aptitudes Organizativas": 99
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 48,
-                "Optimismo": 100,
-                "Altruismo": 86,
-                "Autenticidad": 82,
-                "Proactividad": 90,
-                "Credibilidad": 41,
-                "Humildad": 65
+                "Curiosidad": 39,
+                "Optimismo": 72,
+                "Altruismo": 46,
+                "Autenticidad": 46,
+                "Proactividad": 81,
+                "Credibilidad": 20,
+                "Humildad": 66
             },
             "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 82,
-                "Habilidades de Pensamiento Reflexivo": 60
+                "Promover Desarrollo Aut\u00f3nomo": 52,
+                "Habilidades de Pensamiento Reflexivo": 33
             }
         },
         "personalidad": {
-            "Consciencia": 80,
-            "Amabilidad": 55,
-            "Neuroticismo": 76,
-            "Extraversi\u00f3n": 69,
-            "Intelecto-Imaginaci\u00f3n": 83
+            "Consciencia": 29,
+            "Amabilidad": 26,
+            "Neuroticismo": 15,
+            "Extraversi\u00f3n": 67,
+            "Intelecto-Imaginaci\u00f3n": 97
         },
         "departamento": "Qu\u00edmica",
-        "region": "Sur",
+        "region": "Centro",
         "institucion": "Instituci\u00f3n 2"
     },
     "Persona 5": {
         "_id": 5,
         "basicas": {
             "actitudes": {
-                "Madurez": 55,
-                "Responsabilidad": 74,
-                "Empat\u00eda": 63,
-                "Respeto": 57,
-                "Compasi\u00f3n": 97,
-                "Aceptaci\u00f3n Incondicional": 85,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 52,
-                "Observaci\u00f3n": 60
+                "Madurez": 93,
+                "Responsabilidad": 15,
+                "Empat\u00eda": 87,
+                "Respeto": 67,
+                "Compasi\u00f3n": 17,
+                "Aceptaci\u00f3n Incondicional": 99,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 37,
+                "Observaci\u00f3n": 88
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 77,
-                "Manejo de Afectividad": 47,
-                "Planificaci\u00f3n": 64
+                "Habilidades Interpersonales": 40,
+                "Manejo de Afectividad": 98,
+                "Planificaci\u00f3n": 69
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 53,
-                "Valoraci\u00f3n": 46,
-                "Discreci\u00f3n": 52,
-                "Resiliencia": 69,
-                "Adaptabilidad": 52,
-                "Compromiso": 80,
-                "Inter\u00e9s": 92,
-                "Integridad": 72
+                "Tolerancia": 33,
+                "Valoraci\u00f3n": 86,
+                "Discreci\u00f3n": 75,
+                "Resiliencia": 65,
+                "Adaptabilidad": 25,
+                "Compromiso": 17,
+                "Inter\u00e9s": 45,
+                "Integridad": 32
             },
             "aptitudes": {
-                "Manejo de Grupo": 44,
-                "Mentalidad de Crecimiento": 91,
-                "Aptitudes Organizativas": 58
+                "Manejo de Grupo": 29,
+                "Mentalidad de Crecimiento": 94,
+                "Aptitudes Organizativas": 86
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 56,
-                "Optimismo": 59,
-                "Altruismo": 64,
-                "Autenticidad": 76,
-                "Proactividad": 93,
-                "Credibilidad": 85,
-                "Humildad": 60
+                "Curiosidad": 77,
+                "Optimismo": 20,
+                "Altruismo": 52,
+                "Autenticidad": 84,
+                "Proactividad": 57,
+                "Credibilidad": 74,
+                "Humildad": 78
             },
             "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 46,
-                "Habilidades de Pensamiento Reflexivo": 56
+                "Promover Desarrollo Aut\u00f3nomo": 69,
+                "Habilidades de Pensamiento Reflexivo": 24
             }
         },
         "personalidad": {
-            "Consciencia": 65,
-            "Amabilidad": 70,
-            "Neuroticismo": 75,
-            "Extraversi\u00f3n": 57,
-            "Intelecto-Imaginaci\u00f3n": 96
+            "Consciencia": 19,
+            "Amabilidad": 16,
+            "Neuroticismo": 49,
+            "Extraversi\u00f3n": 90,
+            "Intelecto-Imaginaci\u00f3n": 62
         },
-        "departamento": "Industrial",
-        "region": "Sur",
-        "institucion": "Instituci\u00f3n 2"
+        "departamento": "Qu\u00edmica",
+        "region": "Norte",
+        "institucion": "Instituci\u00f3n 1"
     },
     "Persona 6": {
         "_id": 6,
         "basicas": {
             "actitudes": {
-                "Madurez": 74,
-                "Responsabilidad": 95,
-                "Empat\u00eda": 43,
-                "Respeto": 65,
-                "Compasi\u00f3n": 50,
-                "Aceptaci\u00f3n Incondicional": 44,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 55,
-                "Observaci\u00f3n": 56
+                "Madurez": 79,
+                "Responsabilidad": 48,
+                "Empat\u00eda": 39,
+                "Respeto": 57,
+                "Compasi\u00f3n": 39,
+                "Aceptaci\u00f3n Incondicional": 55,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 46,
+                "Observaci\u00f3n": 15
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 40,
-                "Manejo de Afectividad": 100,
-                "Planificaci\u00f3n": 86
+                "Habilidades Interpersonales": 93,
+                "Manejo de Afectividad": 99,
+                "Planificaci\u00f3n": 85
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 50,
-                "Valoraci\u00f3n": 52,
-                "Discreci\u00f3n": 64,
-                "Resiliencia": 93,
-                "Adaptabilidad": 69,
-                "Compromiso": 92,
-                "Inter\u00e9s": 59,
-                "Integridad": 69
+                "Tolerancia": 58,
+                "Valoraci\u00f3n": 86,
+                "Discreci\u00f3n": 84,
+                "Resiliencia": 96,
+                "Adaptabilidad": 95,
+                "Compromiso": 19,
+                "Inter\u00e9s": 93,
+                "Integridad": 15
             },
             "aptitudes": {
-                "Manejo de Grupo": 75,
-                "Mentalidad de Crecimiento": 49,
-                "Aptitudes Organizativas": 71
+                "Manejo de Grupo": 80,
+                "Mentalidad de Crecimiento": 52,
+                "Aptitudes Organizativas": 89
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 93,
-                "Optimismo": 83,
-                "Altruismo": 55,
-                "Autenticidad": 68,
-                "Proactividad": 79,
-                "Credibilidad": 99,
-                "Humildad": 42
+                "Curiosidad": 48,
+                "Optimismo": 81,
+                "Altruismo": 19,
+                "Autenticidad": 39,
+                "Proactividad": 36,
+                "Credibilidad": 56,
+                "Humildad": 62
             },
             "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 59,
-                "Habilidades de Pensamiento Reflexivo": 48
+                "Promover Desarrollo Aut\u00f3nomo": 93,
+                "Habilidades de Pensamiento Reflexivo": 61
             }
         },
         "personalidad": {
-            "Consciencia": 46,
-            "Amabilidad": 50,
-            "Neuroticismo": 91,
-            "Extraversi\u00f3n": 54,
-            "Intelecto-Imaginaci\u00f3n": 67
+            "Consciencia": 74,
+            "Amabilidad": 39,
+            "Neuroticismo": 80,
+            "Extraversi\u00f3n": 35,
+            "Intelecto-Imaginaci\u00f3n": 79
         },
-        "departamento": "Civil",
-        "region": "Norte",
-        "institucion": "Instituci\u00f3n 3"
+        "departamento": "M\u00e9canica",
+        "region": "Sur",
+        "institucion": "Instituci\u00f3n 1"
     },
     "Persona 7": {
         "_id": 7,
         "basicas": {
             "actitudes": {
-                "Madurez": 62,
-                "Responsabilidad": 87,
-                "Empat\u00eda": 74,
-                "Respeto": 70,
-                "Compasi\u00f3n": 90,
-                "Aceptaci\u00f3n Incondicional": 80,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 49,
-                "Observaci\u00f3n": 99
+                "Madurez": 40,
+                "Responsabilidad": 90,
+                "Empat\u00eda": 84,
+                "Respeto": 31,
+                "Compasi\u00f3n": 22,
+                "Aceptaci\u00f3n Incondicional": 78,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 100,
+                "Observaci\u00f3n": 27
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 73,
-                "Manejo de Afectividad": 76,
-                "Planificaci\u00f3n": 94
+                "Habilidades Interpersonales": 60,
+                "Manejo de Afectividad": 82,
+                "Planificaci\u00f3n": 78
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 96,
-                "Valoraci\u00f3n": 60,
-                "Discreci\u00f3n": 51,
-                "Resiliencia": 64,
-                "Adaptabilidad": 78,
-                "Compromiso": 51,
-                "Inter\u00e9s": 99,
-                "Integridad": 91
+                "Tolerancia": 85,
+                "Valoraci\u00f3n": 38,
+                "Discreci\u00f3n": 97,
+                "Resiliencia": 34,
+                "Adaptabilidad": 42,
+                "Compromiso": 16,
+                "Inter\u00e9s": 37,
+                "Integridad": 64
             },
             "aptitudes": {
-                "Manejo de Grupo": 91,
-                "Mentalidad de Crecimiento": 43,
-                "Aptitudes Organizativas": 52
+                "Manejo de Grupo": 43,
+                "Mentalidad de Crecimiento": 75,
+                "Aptitudes Organizativas": 68
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 40,
-                "Optimismo": 80,
-                "Altruismo": 61,
-                "Autenticidad": 91,
-                "Proactividad": 40,
-                "Credibilidad": 72,
-                "Humildad": 57
+                "Curiosidad": 15,
+                "Optimismo": 48,
+                "Altruismo": 17,
+                "Autenticidad": 33,
+                "Proactividad": 77,
+                "Credibilidad": 100,
+                "Humildad": 81
             },
             "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 72,
-                "Habilidades de Pensamiento Reflexivo": 56
+                "Promover Desarrollo Aut\u00f3nomo": 73,
+                "Habilidades de Pensamiento Reflexivo": 88
             }
         },
         "personalidad": {
-            "Consciencia": 58,
-            "Amabilidad": 57,
-            "Neuroticismo": 69,
-            "Extraversi\u00f3n": 67,
-            "Intelecto-Imaginaci\u00f3n": 43
+            "Consciencia": 65,
+            "Amabilidad": 62,
+            "Neuroticismo": 56,
+            "Extraversi\u00f3n": 17,
+            "Intelecto-Imaginaci\u00f3n": 45
         },
-        "departamento": "Industrial",
-        "region": "Sur",
-        "institucion": "Instituci\u00f3n 2"
+        "departamento": "Civil",
+        "region": "Centro",
+        "institucion": "Instituci\u00f3n 1"
     },
     "Persona 8": {
         "_id": 8,
         "basicas": {
             "actitudes": {
-                "Madurez": 77,
-                "Responsabilidad": 52,
-                "Empat\u00eda": 50,
-                "Respeto": 82,
-                "Compasi\u00f3n": 58,
-                "Aceptaci\u00f3n Incondicional": 75,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 56,
-                "Observaci\u00f3n": 64
+                "Madurez": 78,
+                "Responsabilidad": 51,
+                "Empat\u00eda": 48,
+                "Respeto": 41,
+                "Compasi\u00f3n": 67,
+                "Aceptaci\u00f3n Incondicional": 85,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 36,
+                "Observaci\u00f3n": 78
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 54,
-                "Manejo de Afectividad": 73,
-                "Planificaci\u00f3n": 58
+                "Habilidades Interpersonales": 53,
+                "Manejo de Afectividad": 97,
+                "Planificaci\u00f3n": 53
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 63,
-                "Valoraci\u00f3n": 65,
-                "Discreci\u00f3n": 55,
-                "Resiliencia": 43,
-                "Adaptabilidad": 51,
-                "Compromiso": 45,
-                "Inter\u00e9s": 65,
-                "Integridad": 52
+                "Tolerancia": 94,
+                "Valoraci\u00f3n": 39,
+                "Discreci\u00f3n": 78,
+                "Resiliencia": 84,
+                "Adaptabilidad": 59,
+                "Compromiso": 89,
+                "Inter\u00e9s": 48,
+                "Integridad": 15
             },
             "aptitudes": {
-                "Manejo de Grupo": 43,
-                "Mentalidad de Crecimiento": 58,
-                "Aptitudes Organizativas": 72
+                "Manejo de Grupo": 65,
+                "Mentalidad de Crecimiento": 49,
+                "Aptitudes Organizativas": 77
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 53,
-                "Optimismo": 51,
-                "Altruismo": 62,
-                "Autenticidad": 51,
-                "Proactividad": 45,
-                "Credibilidad": 47,
-                "Humildad": 78
+                "Curiosidad": 28,
+                "Optimismo": 27,
+                "Altruismo": 37,
+                "Autenticidad": 82,
+                "Proactividad": 72,
+                "Credibilidad": 93,
+                "Humildad": 77
             },
             "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 43,
-                "Habilidades de Pensamiento Reflexivo": 82
+                "Promover Desarrollo Aut\u00f3nomo": 41,
+                "Habilidades de Pensamiento Reflexivo": 19
             }
         },
         "personalidad": {
             "Consciencia": 80,
-            "Amabilidad": 73,
-            "Neuroticismo": 97,
-            "Extraversi\u00f3n": 87,
-            "Intelecto-Imaginaci\u00f3n": 74
+            "Amabilidad": 75,
+            "Neuroticismo": 34,
+            "Extraversi\u00f3n": 48,
+            "Intelecto-Imaginaci\u00f3n": 55
         },
         "departamento": "Electr\u00f3nica",
         "region": "Norte",
@@ -499,433 +499,433 @@
         "_id": 9,
         "basicas": {
             "actitudes": {
-                "Madurez": 50,
-                "Responsabilidad": 96,
-                "Empat\u00eda": 87,
-                "Respeto": 100,
-                "Compasi\u00f3n": 84,
-                "Aceptaci\u00f3n Incondicional": 95,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 55,
-                "Observaci\u00f3n": 40
+                "Madurez": 76,
+                "Responsabilidad": 37,
+                "Empat\u00eda": 70,
+                "Respeto": 51,
+                "Compasi\u00f3n": 60,
+                "Aceptaci\u00f3n Incondicional": 57,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 87,
+                "Observaci\u00f3n": 87
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 92,
-                "Manejo de Afectividad": 78,
-                "Planificaci\u00f3n": 51
+                "Habilidades Interpersonales": 67,
+                "Manejo de Afectividad": 86,
+                "Planificaci\u00f3n": 86
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 71,
-                "Valoraci\u00f3n": 82,
-                "Discreci\u00f3n": 62,
-                "Resiliencia": 82,
-                "Adaptabilidad": 74,
-                "Compromiso": 47,
-                "Inter\u00e9s": 66,
-                "Integridad": 55
+                "Tolerancia": 95,
+                "Valoraci\u00f3n": 38,
+                "Discreci\u00f3n": 38,
+                "Resiliencia": 76,
+                "Adaptabilidad": 33,
+                "Compromiso": 72,
+                "Inter\u00e9s": 22,
+                "Integridad": 39
             },
             "aptitudes": {
-                "Manejo de Grupo": 94,
-                "Mentalidad de Crecimiento": 40,
-                "Aptitudes Organizativas": 52
-            }
-        },
-        "avanzadas": {
-            "actitudes": {
-                "Curiosidad": 45,
-                "Optimismo": 87,
-                "Altruismo": 84,
-                "Autenticidad": 72,
-                "Proactividad": 66,
-                "Credibilidad": 79,
-                "Humildad": 91
-            },
-            "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 73,
-                "Habilidades de Pensamiento Reflexivo": 85
-            }
-        },
-        "personalidad": {
-            "Consciencia": 94,
-            "Amabilidad": 65,
-            "Neuroticismo": 90,
-            "Extraversi\u00f3n": 40,
-            "Intelecto-Imaginaci\u00f3n": 77
-        },
-        "departamento": "M\u00e9canica",
-        "region": "Norte",
-        "institucion": "Instituci\u00f3n 1"
-    },
-    "Persona 10": {
-        "_id": 10,
-        "basicas": {
-            "actitudes": {
-                "Madurez": 50,
-                "Responsabilidad": 87,
-                "Empat\u00eda": 42,
-                "Respeto": 69,
-                "Compasi\u00f3n": 93,
-                "Aceptaci\u00f3n Incondicional": 85,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 99,
-                "Observaci\u00f3n": 57
-            },
-            "aptitudes": {
-                "Habilidades Interpersonales": 45,
-                "Manejo de Afectividad": 69,
-                "Planificaci\u00f3n": 62
-            }
-        },
-        "intermedias": {
-            "actitudes": {
-                "Tolerancia": 75,
-                "Valoraci\u00f3n": 84,
-                "Discreci\u00f3n": 41,
-                "Resiliencia": 48,
-                "Adaptabilidad": 70,
-                "Compromiso": 88,
-                "Inter\u00e9s": 75,
-                "Integridad": 95
-            },
-            "aptitudes": {
-                "Manejo de Grupo": 63,
-                "Mentalidad de Crecimiento": 60,
+                "Manejo de Grupo": 68,
+                "Mentalidad de Crecimiento": 19,
                 "Aptitudes Organizativas": 94
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 71,
-                "Optimismo": 65,
-                "Altruismo": 46,
-                "Autenticidad": 74,
-                "Proactividad": 54,
-                "Credibilidad": 71,
-                "Humildad": 47
+                "Curiosidad": 36,
+                "Optimismo": 20,
+                "Altruismo": 82,
+                "Autenticidad": 92,
+                "Proactividad": 62,
+                "Credibilidad": 29,
+                "Humildad": 53
             },
             "aptitudes": {
                 "Promover Desarrollo Aut\u00f3nomo": 42,
-                "Habilidades de Pensamiento Reflexivo": 95
+                "Habilidades de Pensamiento Reflexivo": 42
             }
         },
         "personalidad": {
-            "Consciencia": 49,
-            "Amabilidad": 51,
-            "Neuroticismo": 74,
-            "Extraversi\u00f3n": 42,
-            "Intelecto-Imaginaci\u00f3n": 98
+            "Consciencia": 33,
+            "Amabilidad": 19,
+            "Neuroticismo": 86,
+            "Extraversi\u00f3n": 81,
+            "Intelecto-Imaginaci\u00f3n": 25
+        },
+        "departamento": "Industrial",
+        "region": "Norte",
+        "institucion": "Instituci\u00f3n 2"
+    },
+    "Persona 10": {
+        "_id": 10,
+        "basicas": {
+            "actitudes": {
+                "Madurez": 29,
+                "Responsabilidad": 23,
+                "Empat\u00eda": 47,
+                "Respeto": 89,
+                "Compasi\u00f3n": 17,
+                "Aceptaci\u00f3n Incondicional": 37,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 20,
+                "Observaci\u00f3n": 91
+            },
+            "aptitudes": {
+                "Habilidades Interpersonales": 77,
+                "Manejo de Afectividad": 75,
+                "Planificaci\u00f3n": 91
+            }
+        },
+        "intermedias": {
+            "actitudes": {
+                "Tolerancia": 82,
+                "Valoraci\u00f3n": 80,
+                "Discreci\u00f3n": 41,
+                "Resiliencia": 29,
+                "Adaptabilidad": 65,
+                "Compromiso": 84,
+                "Inter\u00e9s": 91,
+                "Integridad": 58
+            },
+            "aptitudes": {
+                "Manejo de Grupo": 54,
+                "Mentalidad de Crecimiento": 65,
+                "Aptitudes Organizativas": 40
+            }
+        },
+        "avanzadas": {
+            "actitudes": {
+                "Curiosidad": 38,
+                "Optimismo": 30,
+                "Altruismo": 19,
+                "Autenticidad": 86,
+                "Proactividad": 28,
+                "Credibilidad": 38,
+                "Humildad": 74
+            },
+            "aptitudes": {
+                "Promover Desarrollo Aut\u00f3nomo": 52,
+                "Habilidades de Pensamiento Reflexivo": 40
+            }
+        },
+        "personalidad": {
+            "Consciencia": 17,
+            "Amabilidad": 23,
+            "Neuroticismo": 90,
+            "Extraversi\u00f3n": 15,
+            "Intelecto-Imaginaci\u00f3n": 46
         },
         "departamento": "M\u00e9canica",
-        "region": "Sur",
-        "institucion": "Instituci\u00f3n 1"
+        "region": "Norte",
+        "institucion": "Instituci\u00f3n 2"
     },
     "Persona 11": {
         "_id": 11,
         "basicas": {
             "actitudes": {
-                "Madurez": 86,
-                "Responsabilidad": 91,
-                "Empat\u00eda": 68,
-                "Respeto": 79,
-                "Compasi\u00f3n": 70,
-                "Aceptaci\u00f3n Incondicional": 87,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 100,
-                "Observaci\u00f3n": 88
+                "Madurez": 96,
+                "Responsabilidad": 25,
+                "Empat\u00eda": 52,
+                "Respeto": 59,
+                "Compasi\u00f3n": 58,
+                "Aceptaci\u00f3n Incondicional": 33,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 20,
+                "Observaci\u00f3n": 97
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 81,
-                "Manejo de Afectividad": 99,
-                "Planificaci\u00f3n": 40
+                "Habilidades Interpersonales": 86,
+                "Manejo de Afectividad": 80,
+                "Planificaci\u00f3n": 71
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 46,
-                "Valoraci\u00f3n": 82,
-                "Discreci\u00f3n": 59,
-                "Resiliencia": 87,
-                "Adaptabilidad": 45,
-                "Compromiso": 46,
-                "Inter\u00e9s": 93,
-                "Integridad": 84
+                "Tolerancia": 49,
+                "Valoraci\u00f3n": 54,
+                "Discreci\u00f3n": 24,
+                "Resiliencia": 83,
+                "Adaptabilidad": 21,
+                "Compromiso": 72,
+                "Inter\u00e9s": 52,
+                "Integridad": 66
             },
             "aptitudes": {
-                "Manejo de Grupo": 97,
-                "Mentalidad de Crecimiento": 75,
-                "Aptitudes Organizativas": 97
+                "Manejo de Grupo": 30,
+                "Mentalidad de Crecimiento": 83,
+                "Aptitudes Organizativas": 85
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 81,
-                "Optimismo": 95,
-                "Altruismo": 88,
-                "Autenticidad": 68,
-                "Proactividad": 68,
-                "Credibilidad": 69,
-                "Humildad": 64
+                "Curiosidad": 24,
+                "Optimismo": 53,
+                "Altruismo": 43,
+                "Autenticidad": 73,
+                "Proactividad": 64,
+                "Credibilidad": 62,
+                "Humildad": 36
             },
             "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 97,
-                "Habilidades de Pensamiento Reflexivo": 62
+                "Promover Desarrollo Aut\u00f3nomo": 75,
+                "Habilidades de Pensamiento Reflexivo": 67
             }
         },
         "personalidad": {
-            "Consciencia": 66,
-            "Amabilidad": 91,
-            "Neuroticismo": 87,
-            "Extraversi\u00f3n": 43,
-            "Intelecto-Imaginaci\u00f3n": 59
+            "Consciencia": 18,
+            "Amabilidad": 73,
+            "Neuroticismo": 52,
+            "Extraversi\u00f3n": 85,
+            "Intelecto-Imaginaci\u00f3n": 84
         },
-        "departamento": "Qu\u00edmica",
-        "region": "Centro",
+        "departamento": "Civil",
+        "region": "Norte",
         "institucion": "Instituci\u00f3n 2"
     },
     "Persona 12": {
         "_id": 12,
         "basicas": {
             "actitudes": {
-                "Madurez": 47,
-                "Responsabilidad": 46,
-                "Empat\u00eda": 47,
-                "Respeto": 54,
-                "Compasi\u00f3n": 80,
-                "Aceptaci\u00f3n Incondicional": 53,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 62,
-                "Observaci\u00f3n": 68
-            },
-            "aptitudes": {
-                "Habilidades Interpersonales": 80,
-                "Manejo de Afectividad": 79,
-                "Planificaci\u00f3n": 53
-            }
-        },
-        "intermedias": {
-            "actitudes": {
-                "Tolerancia": 40,
-                "Valoraci\u00f3n": 65,
-                "Discreci\u00f3n": 78,
-                "Resiliencia": 75,
-                "Adaptabilidad": 44,
-                "Compromiso": 62,
-                "Inter\u00e9s": 59,
-                "Integridad": 77
-            },
-            "aptitudes": {
-                "Manejo de Grupo": 40,
-                "Mentalidad de Crecimiento": 68,
-                "Aptitudes Organizativas": 73
-            }
-        },
-        "avanzadas": {
-            "actitudes": {
-                "Curiosidad": 86,
-                "Optimismo": 42,
-                "Altruismo": 59,
-                "Autenticidad": 51,
-                "Proactividad": 79,
-                "Credibilidad": 40,
-                "Humildad": 79
-            },
-            "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 94,
-                "Habilidades de Pensamiento Reflexivo": 75
-            }
-        },
-        "personalidad": {
-            "Consciencia": 80,
-            "Amabilidad": 49,
-            "Neuroticismo": 42,
-            "Extraversi\u00f3n": 78,
-            "Intelecto-Imaginaci\u00f3n": 58
-        },
-        "departamento": "Electr\u00f3nica",
-        "region": "Centro",
-        "institucion": "Instituci\u00f3n 2"
-    },
-    "Persona 13": {
-        "_id": 13,
-        "basicas": {
-            "actitudes": {
-                "Madurez": 72,
-                "Responsabilidad": 43,
-                "Empat\u00eda": 58,
-                "Respeto": 53,
-                "Compasi\u00f3n": 80,
-                "Aceptaci\u00f3n Incondicional": 55,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 74,
-                "Observaci\u00f3n": 55
+                "Madurez": 35,
+                "Responsabilidad": 40,
+                "Empat\u00eda": 20,
+                "Respeto": 77,
+                "Compasi\u00f3n": 36,
+                "Aceptaci\u00f3n Incondicional": 35,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 94,
+                "Observaci\u00f3n": 27
             },
             "aptitudes": {
                 "Habilidades Interpersonales": 65,
-                "Manejo de Afectividad": 58,
-                "Planificaci\u00f3n": 72
-            }
-        },
-        "intermedias": {
-            "actitudes": {
-                "Tolerancia": 79,
-                "Valoraci\u00f3n": 85,
-                "Discreci\u00f3n": 78,
-                "Resiliencia": 68,
-                "Adaptabilidad": 84,
-                "Compromiso": 44,
-                "Inter\u00e9s": 83,
-                "Integridad": 97
-            },
-            "aptitudes": {
-                "Manejo de Grupo": 83,
-                "Mentalidad de Crecimiento": 71,
-                "Aptitudes Organizativas": 82
-            }
-        },
-        "avanzadas": {
-            "actitudes": {
-                "Curiosidad": 92,
-                "Optimismo": 88,
-                "Altruismo": 55,
-                "Autenticidad": 79,
-                "Proactividad": 67,
-                "Credibilidad": 91,
-                "Humildad": 40
-            },
-            "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 60,
-                "Habilidades de Pensamiento Reflexivo": 70
-            }
-        },
-        "personalidad": {
-            "Consciencia": 91,
-            "Amabilidad": 61,
-            "Neuroticismo": 97,
-            "Extraversi\u00f3n": 83,
-            "Intelecto-Imaginaci\u00f3n": 61
-        },
-        "departamento": "Civil",
-        "region": "Sur",
-        "institucion": "Instituci\u00f3n 1"
-    },
-    "Persona 14": {
-        "_id": 14,
-        "basicas": {
-            "actitudes": {
-                "Madurez": 60,
-                "Responsabilidad": 94,
-                "Empat\u00eda": 94,
-                "Respeto": 55,
-                "Compasi\u00f3n": 47,
-                "Aceptaci\u00f3n Incondicional": 48,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 57,
-                "Observaci\u00f3n": 67
-            },
-            "aptitudes": {
-                "Habilidades Interpersonales": 65,
-                "Manejo de Afectividad": 45,
+                "Manejo de Afectividad": 69,
                 "Planificaci\u00f3n": 89
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 71,
-                "Valoraci\u00f3n": 51,
-                "Discreci\u00f3n": 62,
-                "Resiliencia": 77,
-                "Adaptabilidad": 59,
-                "Compromiso": 81,
-                "Inter\u00e9s": 47,
-                "Integridad": 72
+                "Tolerancia": 21,
+                "Valoraci\u00f3n": 54,
+                "Discreci\u00f3n": 95,
+                "Resiliencia": 25,
+                "Adaptabilidad": 64,
+                "Compromiso": 56,
+                "Inter\u00e9s": 24,
+                "Integridad": 100
             },
             "aptitudes": {
-                "Manejo de Grupo": 79,
-                "Mentalidad de Crecimiento": 89,
-                "Aptitudes Organizativas": 67
+                "Manejo de Grupo": 44,
+                "Mentalidad de Crecimiento": 28,
+                "Aptitudes Organizativas": 38
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 75,
-                "Optimismo": 99,
-                "Altruismo": 83,
-                "Autenticidad": 81,
-                "Proactividad": 46,
-                "Credibilidad": 67,
-                "Humildad": 53
+                "Curiosidad": 59,
+                "Optimismo": 83,
+                "Altruismo": 78,
+                "Autenticidad": 51,
+                "Proactividad": 89,
+                "Credibilidad": 84,
+                "Humildad": 66
             },
             "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 48,
-                "Habilidades de Pensamiento Reflexivo": 96
+                "Promover Desarrollo Aut\u00f3nomo": 92,
+                "Habilidades de Pensamiento Reflexivo": 68
             }
         },
         "personalidad": {
-            "Consciencia": 74,
-            "Amabilidad": 96,
-            "Neuroticismo": 74,
-            "Extraversi\u00f3n": 54,
-            "Intelecto-Imaginaci\u00f3n": 98
+            "Consciencia": 88,
+            "Amabilidad": 88,
+            "Neuroticismo": 35,
+            "Extraversi\u00f3n": 81,
+            "Intelecto-Imaginaci\u00f3n": 97
         },
-        "departamento": "Qu\u00edmica",
+        "departamento": "Electr\u00f3nica",
         "region": "Centro",
         "institucion": "Instituci\u00f3n 3"
+    },
+    "Persona 13": {
+        "_id": 13,
+        "basicas": {
+            "actitudes": {
+                "Madurez": 74,
+                "Responsabilidad": 56,
+                "Empat\u00eda": 85,
+                "Respeto": 81,
+                "Compasi\u00f3n": 61,
+                "Aceptaci\u00f3n Incondicional": 74,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 27,
+                "Observaci\u00f3n": 45
+            },
+            "aptitudes": {
+                "Habilidades Interpersonales": 29,
+                "Manejo de Afectividad": 98,
+                "Planificaci\u00f3n": 75
+            }
+        },
+        "intermedias": {
+            "actitudes": {
+                "Tolerancia": 86,
+                "Valoraci\u00f3n": 87,
+                "Discreci\u00f3n": 79,
+                "Resiliencia": 91,
+                "Adaptabilidad": 41,
+                "Compromiso": 29,
+                "Inter\u00e9s": 15,
+                "Integridad": 61
+            },
+            "aptitudes": {
+                "Manejo de Grupo": 96,
+                "Mentalidad de Crecimiento": 56,
+                "Aptitudes Organizativas": 22
+            }
+        },
+        "avanzadas": {
+            "actitudes": {
+                "Curiosidad": 21,
+                "Optimismo": 92,
+                "Altruismo": 72,
+                "Autenticidad": 84,
+                "Proactividad": 57,
+                "Credibilidad": 96,
+                "Humildad": 37
+            },
+            "aptitudes": {
+                "Promover Desarrollo Aut\u00f3nomo": 53,
+                "Habilidades de Pensamiento Reflexivo": 19
+            }
+        },
+        "personalidad": {
+            "Consciencia": 63,
+            "Amabilidad": 59,
+            "Neuroticismo": 96,
+            "Extraversi\u00f3n": 78,
+            "Intelecto-Imaginaci\u00f3n": 88
+        },
+        "departamento": "Sistemas",
+        "region": "Norte",
+        "institucion": "Instituci\u00f3n 3"
+    },
+    "Persona 14": {
+        "_id": 14,
+        "basicas": {
+            "actitudes": {
+                "Madurez": 74,
+                "Responsabilidad": 16,
+                "Empat\u00eda": 76,
+                "Respeto": 62,
+                "Compasi\u00f3n": 77,
+                "Aceptaci\u00f3n Incondicional": 98,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 48,
+                "Observaci\u00f3n": 53
+            },
+            "aptitudes": {
+                "Habilidades Interpersonales": 21,
+                "Manejo de Afectividad": 81,
+                "Planificaci\u00f3n": 91
+            }
+        },
+        "intermedias": {
+            "actitudes": {
+                "Tolerancia": 65,
+                "Valoraci\u00f3n": 31,
+                "Discreci\u00f3n": 80,
+                "Resiliencia": 44,
+                "Adaptabilidad": 23,
+                "Compromiso": 68,
+                "Inter\u00e9s": 47,
+                "Integridad": 76
+            },
+            "aptitudes": {
+                "Manejo de Grupo": 43,
+                "Mentalidad de Crecimiento": 89,
+                "Aptitudes Organizativas": 66
+            }
+        },
+        "avanzadas": {
+            "actitudes": {
+                "Curiosidad": 76,
+                "Optimismo": 23,
+                "Altruismo": 79,
+                "Autenticidad": 94,
+                "Proactividad": 68,
+                "Credibilidad": 70,
+                "Humildad": 29
+            },
+            "aptitudes": {
+                "Promover Desarrollo Aut\u00f3nomo": 86,
+                "Habilidades de Pensamiento Reflexivo": 31
+            }
+        },
+        "personalidad": {
+            "Consciencia": 53,
+            "Amabilidad": 96,
+            "Neuroticismo": 75,
+            "Extraversi\u00f3n": 58,
+            "Intelecto-Imaginaci\u00f3n": 85
+        },
+        "departamento": "Qu\u00edmica",
+        "region": "Norte",
+        "institucion": "Instituci\u00f3n 1"
     },
     "Persona 15": {
         "_id": 15,
         "basicas": {
             "actitudes": {
-                "Madurez": 91,
-                "Responsabilidad": 82,
-                "Empat\u00eda": 72,
-                "Respeto": 81,
-                "Compasi\u00f3n": 93,
-                "Aceptaci\u00f3n Incondicional": 63,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 76,
-                "Observaci\u00f3n": 92
+                "Madurez": 65,
+                "Responsabilidad": 15,
+                "Empat\u00eda": 50,
+                "Respeto": 59,
+                "Compasi\u00f3n": 58,
+                "Aceptaci\u00f3n Incondicional": 58,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 100,
+                "Observaci\u00f3n": 15
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 71,
-                "Manejo de Afectividad": 86,
-                "Planificaci\u00f3n": 40
+                "Habilidades Interpersonales": 49,
+                "Manejo de Afectividad": 56,
+                "Planificaci\u00f3n": 85
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 98,
-                "Valoraci\u00f3n": 82,
-                "Discreci\u00f3n": 63,
-                "Resiliencia": 95,
-                "Adaptabilidad": 71,
-                "Compromiso": 79,
-                "Inter\u00e9s": 48,
-                "Integridad": 93
+                "Tolerancia": 87,
+                "Valoraci\u00f3n": 56,
+                "Discreci\u00f3n": 90,
+                "Resiliencia": 32,
+                "Adaptabilidad": 88,
+                "Compromiso": 70,
+                "Inter\u00e9s": 89,
+                "Integridad": 79
             },
             "aptitudes": {
-                "Manejo de Grupo": 74,
-                "Mentalidad de Crecimiento": 78,
-                "Aptitudes Organizativas": 93
+                "Manejo de Grupo": 56,
+                "Mentalidad de Crecimiento": 85,
+                "Aptitudes Organizativas": 74
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 73,
-                "Optimismo": 74,
-                "Altruismo": 73,
-                "Autenticidad": 57,
-                "Proactividad": 53,
-                "Credibilidad": 87,
-                "Humildad": 49
+                "Curiosidad": 60,
+                "Optimismo": 69,
+                "Altruismo": 85,
+                "Autenticidad": 66,
+                "Proactividad": 78,
+                "Credibilidad": 60,
+                "Humildad": 84
             },
             "aptitudes": {
                 "Promover Desarrollo Aut\u00f3nomo": 52,
-                "Habilidades de Pensamiento Reflexivo": 55
+                "Habilidades de Pensamiento Reflexivo": 17
             }
         },
         "personalidad": {
-            "Consciencia": 42,
-            "Amabilidad": 49,
-            "Neuroticismo": 55,
-            "Extraversi\u00f3n": 69,
-            "Intelecto-Imaginaci\u00f3n": 77
+            "Consciencia": 28,
+            "Amabilidad": 27,
+            "Neuroticismo": 79,
+            "Extraversi\u00f3n": 45,
+            "Intelecto-Imaginaci\u00f3n": 88
         },
-        "departamento": "Electr\u00f3nica",
+        "departamento": "Civil",
         "region": "Sur",
         "institucion": "Instituci\u00f3n 3"
     },
@@ -933,929 +933,929 @@
         "_id": 16,
         "basicas": {
             "actitudes": {
-                "Madurez": 76,
-                "Responsabilidad": 72,
+                "Madurez": 81,
+                "Responsabilidad": 53,
                 "Empat\u00eda": 56,
-                "Respeto": 95,
-                "Compasi\u00f3n": 87,
-                "Aceptaci\u00f3n Incondicional": 82,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 48,
-                "Observaci\u00f3n": 80
+                "Respeto": 17,
+                "Compasi\u00f3n": 77,
+                "Aceptaci\u00f3n Incondicional": 57,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 54,
+                "Observaci\u00f3n": 27
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 91,
-                "Manejo de Afectividad": 47,
-                "Planificaci\u00f3n": 73
+                "Habilidades Interpersonales": 36,
+                "Manejo de Afectividad": 44,
+                "Planificaci\u00f3n": 32
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 70,
-                "Valoraci\u00f3n": 86,
-                "Discreci\u00f3n": 92,
-                "Resiliencia": 63,
-                "Adaptabilidad": 56,
-                "Compromiso": 47,
-                "Inter\u00e9s": 44,
-                "Integridad": 69
+                "Tolerancia": 79,
+                "Valoraci\u00f3n": 21,
+                "Discreci\u00f3n": 45,
+                "Resiliencia": 69,
+                "Adaptabilidad": 71,
+                "Compromiso": 66,
+                "Inter\u00e9s": 38,
+                "Integridad": 98
             },
             "aptitudes": {
-                "Manejo de Grupo": 75,
-                "Mentalidad de Crecimiento": 67,
-                "Aptitudes Organizativas": 69
+                "Manejo de Grupo": 44,
+                "Mentalidad de Crecimiento": 56,
+                "Aptitudes Organizativas": 28
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 66,
-                "Optimismo": 68,
-                "Altruismo": 84,
-                "Autenticidad": 48,
-                "Proactividad": 77,
-                "Credibilidad": 73,
-                "Humildad": 54
+                "Curiosidad": 30,
+                "Optimismo": 55,
+                "Altruismo": 32,
+                "Autenticidad": 77,
+                "Proactividad": 22,
+                "Credibilidad": 23,
+                "Humildad": 95
             },
             "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 96,
-                "Habilidades de Pensamiento Reflexivo": 44
+                "Promover Desarrollo Aut\u00f3nomo": 61,
+                "Habilidades de Pensamiento Reflexivo": 43
             }
         },
         "personalidad": {
-            "Consciencia": 73,
-            "Amabilidad": 69,
-            "Neuroticismo": 50,
-            "Extraversi\u00f3n": 84,
-            "Intelecto-Imaginaci\u00f3n": 72
+            "Consciencia": 33,
+            "Amabilidad": 42,
+            "Neuroticismo": 88,
+            "Extraversi\u00f3n": 65,
+            "Intelecto-Imaginaci\u00f3n": 100
         },
-        "departamento": "Industrial",
-        "region": "Sur",
-        "institucion": "Instituci\u00f3n 2"
+        "departamento": "M\u00e9canica",
+        "region": "Norte",
+        "institucion": "Instituci\u00f3n 3"
     },
     "Persona 17": {
         "_id": 17,
         "basicas": {
             "actitudes": {
-                "Madurez": 66,
-                "Responsabilidad": 96,
-                "Empat\u00eda": 50,
-                "Respeto": 42,
-                "Compasi\u00f3n": 100,
-                "Aceptaci\u00f3n Incondicional": 76,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 86,
-                "Observaci\u00f3n": 81
+                "Madurez": 28,
+                "Responsabilidad": 46,
+                "Empat\u00eda": 22,
+                "Respeto": 64,
+                "Compasi\u00f3n": 93,
+                "Aceptaci\u00f3n Incondicional": 49,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 57,
+                "Observaci\u00f3n": 45
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 64,
-                "Manejo de Afectividad": 91,
-                "Planificaci\u00f3n": 46
+                "Habilidades Interpersonales": 32,
+                "Manejo de Afectividad": 44,
+                "Planificaci\u00f3n": 84
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 92,
-                "Valoraci\u00f3n": 79,
-                "Discreci\u00f3n": 66,
-                "Resiliencia": 78,
-                "Adaptabilidad": 60,
-                "Compromiso": 78,
-                "Inter\u00e9s": 69,
-                "Integridad": 98
+                "Tolerancia": 78,
+                "Valoraci\u00f3n": 74,
+                "Discreci\u00f3n": 34,
+                "Resiliencia": 81,
+                "Adaptabilidad": 78,
+                "Compromiso": 23,
+                "Inter\u00e9s": 30,
+                "Integridad": 31
             },
             "aptitudes": {
-                "Manejo de Grupo": 62,
-                "Mentalidad de Crecimiento": 51,
-                "Aptitudes Organizativas": 73
+                "Manejo de Grupo": 79,
+                "Mentalidad de Crecimiento": 63,
+                "Aptitudes Organizativas": 79
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 40,
-                "Optimismo": 54,
-                "Altruismo": 91,
-                "Autenticidad": 73,
-                "Proactividad": 47,
-                "Credibilidad": 43,
-                "Humildad": 69
+                "Curiosidad": 41,
+                "Optimismo": 44,
+                "Altruismo": 52,
+                "Autenticidad": 42,
+                "Proactividad": 78,
+                "Credibilidad": 67,
+                "Humildad": 25
             },
             "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 94,
-                "Habilidades de Pensamiento Reflexivo": 53
+                "Promover Desarrollo Aut\u00f3nomo": 86,
+                "Habilidades de Pensamiento Reflexivo": 67
             }
         },
         "personalidad": {
-            "Consciencia": 61,
-            "Amabilidad": 97,
-            "Neuroticismo": 92,
-            "Extraversi\u00f3n": 51,
-            "Intelecto-Imaginaci\u00f3n": 98
+            "Consciencia": 67,
+            "Amabilidad": 48,
+            "Neuroticismo": 31,
+            "Extraversi\u00f3n": 96,
+            "Intelecto-Imaginaci\u00f3n": 56
         },
-        "departamento": "Civil",
-        "region": "Sur",
+        "departamento": "Qu\u00edmica",
+        "region": "Centro",
         "institucion": "Instituci\u00f3n 2"
     },
     "Persona 18": {
         "_id": 18,
         "basicas": {
             "actitudes": {
-                "Madurez": 82,
-                "Responsabilidad": 53,
-                "Empat\u00eda": 94,
-                "Respeto": 100,
-                "Compasi\u00f3n": 96,
-                "Aceptaci\u00f3n Incondicional": 81,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 69,
-                "Observaci\u00f3n": 92
+                "Madurez": 71,
+                "Responsabilidad": 44,
+                "Empat\u00eda": 23,
+                "Respeto": 19,
+                "Compasi\u00f3n": 78,
+                "Aceptaci\u00f3n Incondicional": 29,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 28,
+                "Observaci\u00f3n": 20
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 42,
-                "Manejo de Afectividad": 59,
-                "Planificaci\u00f3n": 50
+                "Habilidades Interpersonales": 68,
+                "Manejo de Afectividad": 34,
+                "Planificaci\u00f3n": 34
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 87,
-                "Valoraci\u00f3n": 82,
-                "Discreci\u00f3n": 72,
-                "Resiliencia": 59,
-                "Adaptabilidad": 81,
-                "Compromiso": 73,
-                "Inter\u00e9s": 67,
-                "Integridad": 91
+                "Tolerancia": 59,
+                "Valoraci\u00f3n": 99,
+                "Discreci\u00f3n": 99,
+                "Resiliencia": 89,
+                "Adaptabilidad": 56,
+                "Compromiso": 19,
+                "Inter\u00e9s": 95,
+                "Integridad": 55
             },
             "aptitudes": {
-                "Manejo de Grupo": 70,
-                "Mentalidad de Crecimiento": 68,
-                "Aptitudes Organizativas": 47
+                "Manejo de Grupo": 41,
+                "Mentalidad de Crecimiento": 33,
+                "Aptitudes Organizativas": 73
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 93,
-                "Optimismo": 75,
-                "Altruismo": 73,
-                "Autenticidad": 51,
-                "Proactividad": 41,
-                "Credibilidad": 51,
-                "Humildad": 44
+                "Curiosidad": 58,
+                "Optimismo": 21,
+                "Altruismo": 22,
+                "Autenticidad": 50,
+                "Proactividad": 50,
+                "Credibilidad": 84,
+                "Humildad": 32
             },
             "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 45,
-                "Habilidades de Pensamiento Reflexivo": 42
+                "Promover Desarrollo Aut\u00f3nomo": 36,
+                "Habilidades de Pensamiento Reflexivo": 86
             }
         },
         "personalidad": {
-            "Consciencia": 98,
-            "Amabilidad": 76,
-            "Neuroticismo": 54,
-            "Extraversi\u00f3n": 84,
-            "Intelecto-Imaginaci\u00f3n": 79
+            "Consciencia": 33,
+            "Amabilidad": 33,
+            "Neuroticismo": 84,
+            "Extraversi\u00f3n": 26,
+            "Intelecto-Imaginaci\u00f3n": 48
         },
-        "departamento": "Qu\u00edmica",
-        "region": "Norte",
+        "departamento": "Industrial",
+        "region": "Centro",
         "institucion": "Instituci\u00f3n 1"
     },
     "Persona 19": {
         "_id": 19,
         "basicas": {
             "actitudes": {
-                "Madurez": 91,
-                "Responsabilidad": 68,
-                "Empat\u00eda": 64,
-                "Respeto": 49,
-                "Compasi\u00f3n": 70,
-                "Aceptaci\u00f3n Incondicional": 98,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 93,
-                "Observaci\u00f3n": 92
+                "Madurez": 80,
+                "Responsabilidad": 64,
+                "Empat\u00eda": 40,
+                "Respeto": 93,
+                "Compasi\u00f3n": 38,
+                "Aceptaci\u00f3n Incondicional": 46,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 34,
+                "Observaci\u00f3n": 99
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 40,
-                "Manejo de Afectividad": 75,
-                "Planificaci\u00f3n": 54
+                "Habilidades Interpersonales": 61,
+                "Manejo de Afectividad": 58,
+                "Planificaci\u00f3n": 80
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 85,
-                "Valoraci\u00f3n": 99,
-                "Discreci\u00f3n": 47,
-                "Resiliencia": 83,
-                "Adaptabilidad": 82,
-                "Compromiso": 49,
-                "Inter\u00e9s": 67,
-                "Integridad": 61
+                "Tolerancia": 31,
+                "Valoraci\u00f3n": 53,
+                "Discreci\u00f3n": 61,
+                "Resiliencia": 20,
+                "Adaptabilidad": 72,
+                "Compromiso": 55,
+                "Inter\u00e9s": 87,
+                "Integridad": 50
             },
             "aptitudes": {
-                "Manejo de Grupo": 65,
-                "Mentalidad de Crecimiento": 80,
-                "Aptitudes Organizativas": 78
+                "Manejo de Grupo": 91,
+                "Mentalidad de Crecimiento": 91,
+                "Aptitudes Organizativas": 45
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 92,
-                "Optimismo": 77,
-                "Altruismo": 85,
-                "Autenticidad": 52,
-                "Proactividad": 98,
-                "Credibilidad": 76,
-                "Humildad": 49
+                "Curiosidad": 60,
+                "Optimismo": 19,
+                "Altruismo": 32,
+                "Autenticidad": 31,
+                "Proactividad": 88,
+                "Credibilidad": 80,
+                "Humildad": 79
             },
             "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 99,
-                "Habilidades de Pensamiento Reflexivo": 96
+                "Promover Desarrollo Aut\u00f3nomo": 46,
+                "Habilidades de Pensamiento Reflexivo": 26
             }
         },
         "personalidad": {
-            "Consciencia": 61,
-            "Amabilidad": 51,
-            "Neuroticismo": 49,
-            "Extraversi\u00f3n": 82,
-            "Intelecto-Imaginaci\u00f3n": 71
+            "Consciencia": 24,
+            "Amabilidad": 100,
+            "Neuroticismo": 21,
+            "Extraversi\u00f3n": 29,
+            "Intelecto-Imaginaci\u00f3n": 33
         },
-        "departamento": "Industrial",
-        "region": "Norte",
+        "departamento": "Sistemas",
+        "region": "Sur",
         "institucion": "Instituci\u00f3n 3"
     },
     "Persona 20": {
         "_id": 20,
         "basicas": {
             "actitudes": {
-                "Madurez": 54,
-                "Responsabilidad": 63,
-                "Empat\u00eda": 41,
-                "Respeto": 51,
-                "Compasi\u00f3n": 60,
-                "Aceptaci\u00f3n Incondicional": 87,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 41,
-                "Observaci\u00f3n": 76
+                "Madurez": 100,
+                "Responsabilidad": 25,
+                "Empat\u00eda": 80,
+                "Respeto": 59,
+                "Compasi\u00f3n": 72,
+                "Aceptaci\u00f3n Incondicional": 24,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 49,
+                "Observaci\u00f3n": 32
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 63,
-                "Manejo de Afectividad": 40,
-                "Planificaci\u00f3n": 59
+                "Habilidades Interpersonales": 68,
+                "Manejo de Afectividad": 70,
+                "Planificaci\u00f3n": 95
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 98,
-                "Valoraci\u00f3n": 82,
-                "Discreci\u00f3n": 67,
-                "Resiliencia": 74,
-                "Adaptabilidad": 45,
-                "Compromiso": 95,
-                "Inter\u00e9s": 90,
-                "Integridad": 63
+                "Tolerancia": 62,
+                "Valoraci\u00f3n": 27,
+                "Discreci\u00f3n": 52,
+                "Resiliencia": 88,
+                "Adaptabilidad": 40,
+                "Compromiso": 27,
+                "Inter\u00e9s": 74,
+                "Integridad": 100
             },
             "aptitudes": {
-                "Manejo de Grupo": 50,
-                "Mentalidad de Crecimiento": 97,
-                "Aptitudes Organizativas": 99
+                "Manejo de Grupo": 51,
+                "Mentalidad de Crecimiento": 87,
+                "Aptitudes Organizativas": 68
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 46,
-                "Optimismo": 70,
-                "Altruismo": 82,
-                "Autenticidad": 52,
-                "Proactividad": 73,
-                "Credibilidad": 98,
-                "Humildad": 44
+                "Curiosidad": 88,
+                "Optimismo": 81,
+                "Altruismo": 32,
+                "Autenticidad": 94,
+                "Proactividad": 84,
+                "Credibilidad": 61,
+                "Humildad": 68
             },
             "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 73,
-                "Habilidades de Pensamiento Reflexivo": 78
+                "Promover Desarrollo Aut\u00f3nomo": 69,
+                "Habilidades de Pensamiento Reflexivo": 61
             }
         },
         "personalidad": {
-            "Consciencia": 90,
-            "Amabilidad": 69,
-            "Neuroticismo": 100,
-            "Extraversi\u00f3n": 85,
-            "Intelecto-Imaginaci\u00f3n": 56
+            "Consciencia": 33,
+            "Amabilidad": 43,
+            "Neuroticismo": 71,
+            "Extraversi\u00f3n": 90,
+            "Intelecto-Imaginaci\u00f3n": 25
         },
-        "departamento": "Electr\u00f3nica",
-        "region": "Norte",
-        "institucion": "Instituci\u00f3n 1"
+        "departamento": "M\u00e9canica",
+        "region": "Centro",
+        "institucion": "Instituci\u00f3n 3"
     },
     "Persona 21": {
         "_id": 21,
         "basicas": {
             "actitudes": {
-                "Madurez": 89,
-                "Responsabilidad": 81,
-                "Empat\u00eda": 97,
-                "Respeto": 95,
-                "Compasi\u00f3n": 65,
-                "Aceptaci\u00f3n Incondicional": 41,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 65,
-                "Observaci\u00f3n": 42
+                "Madurez": 52,
+                "Responsabilidad": 93,
+                "Empat\u00eda": 61,
+                "Respeto": 74,
+                "Compasi\u00f3n": 54,
+                "Aceptaci\u00f3n Incondicional": 85,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 25,
+                "Observaci\u00f3n": 57
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 85,
-                "Manejo de Afectividad": 69,
-                "Planificaci\u00f3n": 48
+                "Habilidades Interpersonales": 66,
+                "Manejo de Afectividad": 80,
+                "Planificaci\u00f3n": 21
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 48,
-                "Valoraci\u00f3n": 43,
-                "Discreci\u00f3n": 85,
-                "Resiliencia": 98,
-                "Adaptabilidad": 45,
-                "Compromiso": 80,
-                "Inter\u00e9s": 97,
-                "Integridad": 91
+                "Tolerancia": 32,
+                "Valoraci\u00f3n": 27,
+                "Discreci\u00f3n": 74,
+                "Resiliencia": 88,
+                "Adaptabilidad": 27,
+                "Compromiso": 78,
+                "Inter\u00e9s": 61,
+                "Integridad": 100
             },
             "aptitudes": {
-                "Manejo de Grupo": 61,
-                "Mentalidad de Crecimiento": 94,
-                "Aptitudes Organizativas": 52
+                "Manejo de Grupo": 23,
+                "Mentalidad de Crecimiento": 76,
+                "Aptitudes Organizativas": 21
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 52,
-                "Optimismo": 91,
-                "Altruismo": 48,
-                "Autenticidad": 41,
-                "Proactividad": 42,
-                "Credibilidad": 42,
-                "Humildad": 52
+                "Curiosidad": 24,
+                "Optimismo": 53,
+                "Altruismo": 43,
+                "Autenticidad": 96,
+                "Proactividad": 52,
+                "Credibilidad": 21,
+                "Humildad": 34
             },
             "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 59,
-                "Habilidades de Pensamiento Reflexivo": 88
+                "Promover Desarrollo Aut\u00f3nomo": 47,
+                "Habilidades de Pensamiento Reflexivo": 77
             }
         },
         "personalidad": {
-            "Consciencia": 43,
-            "Amabilidad": 65,
-            "Neuroticismo": 68,
-            "Extraversi\u00f3n": 64,
-            "Intelecto-Imaginaci\u00f3n": 41
+            "Consciencia": 54,
+            "Amabilidad": 44,
+            "Neuroticismo": 42,
+            "Extraversi\u00f3n": 29,
+            "Intelecto-Imaginaci\u00f3n": 53
         },
-        "departamento": "Qu\u00edmica",
-        "region": "Sur",
-        "institucion": "Instituci\u00f3n 3"
+        "departamento": "Sistemas",
+        "region": "Centro",
+        "institucion": "Instituci\u00f3n 1"
     },
     "Persona 22": {
         "_id": 22,
         "basicas": {
             "actitudes": {
-                "Madurez": 44,
-                "Responsabilidad": 69,
-                "Empat\u00eda": 81,
-                "Respeto": 58,
-                "Compasi\u00f3n": 73,
-                "Aceptaci\u00f3n Incondicional": 76,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 50,
-                "Observaci\u00f3n": 42
-            },
-            "aptitudes": {
-                "Habilidades Interpersonales": 58,
-                "Manejo de Afectividad": 85,
-                "Planificaci\u00f3n": 42
-            }
-        },
-        "intermedias": {
-            "actitudes": {
-                "Tolerancia": 83,
-                "Valoraci\u00f3n": 73,
-                "Discreci\u00f3n": 94,
-                "Resiliencia": 58,
-                "Adaptabilidad": 80,
-                "Compromiso": 45,
-                "Inter\u00e9s": 70,
-                "Integridad": 59
-            },
-            "aptitudes": {
-                "Manejo de Grupo": 100,
-                "Mentalidad de Crecimiento": 77,
-                "Aptitudes Organizativas": 85
-            }
-        },
-        "avanzadas": {
-            "actitudes": {
-                "Curiosidad": 91,
-                "Optimismo": 54,
-                "Altruismo": 60,
-                "Autenticidad": 59,
-                "Proactividad": 54,
-                "Credibilidad": 76,
-                "Humildad": 43
-            },
-            "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 43,
-                "Habilidades de Pensamiento Reflexivo": 72
-            }
-        },
-        "personalidad": {
-            "Consciencia": 72,
-            "Amabilidad": 64,
-            "Neuroticismo": 58,
-            "Extraversi\u00f3n": 99,
-            "Intelecto-Imaginaci\u00f3n": 50
-        },
-        "departamento": "Industrial",
-        "region": "Norte",
-        "institucion": "Instituci\u00f3n 2"
-    },
-    "Persona 23": {
-        "_id": 23,
-        "basicas": {
-            "actitudes": {
-                "Madurez": 61,
-                "Responsabilidad": 87,
-                "Empat\u00eda": 42,
-                "Respeto": 77,
-                "Compasi\u00f3n": 58,
-                "Aceptaci\u00f3n Incondicional": 84,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 48,
-                "Observaci\u00f3n": 94
-            },
-            "aptitudes": {
-                "Habilidades Interpersonales": 65,
-                "Manejo de Afectividad": 74,
-                "Planificaci\u00f3n": 42
-            }
-        },
-        "intermedias": {
-            "actitudes": {
-                "Tolerancia": 66,
-                "Valoraci\u00f3n": 82,
-                "Discreci\u00f3n": 62,
-                "Resiliencia": 94,
-                "Adaptabilidad": 71,
-                "Compromiso": 51,
-                "Inter\u00e9s": 41,
-                "Integridad": 70
-            },
-            "aptitudes": {
-                "Manejo de Grupo": 51,
-                "Mentalidad de Crecimiento": 58,
-                "Aptitudes Organizativas": 51
-            }
-        },
-        "avanzadas": {
-            "actitudes": {
-                "Curiosidad": 64,
-                "Optimismo": 97,
-                "Altruismo": 85,
-                "Autenticidad": 76,
-                "Proactividad": 50,
-                "Credibilidad": 51,
-                "Humildad": 72
-            },
-            "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 73,
-                "Habilidades de Pensamiento Reflexivo": 60
-            }
-        },
-        "personalidad": {
-            "Consciencia": 86,
-            "Amabilidad": 44,
-            "Neuroticismo": 94,
-            "Extraversi\u00f3n": 93,
-            "Intelecto-Imaginaci\u00f3n": 65
-        },
-        "departamento": "Industrial",
-        "region": "Sur",
-        "institucion": "Instituci\u00f3n 1"
-    },
-    "Persona 24": {
-        "_id": 24,
-        "basicas": {
-            "actitudes": {
-                "Madurez": 62,
-                "Responsabilidad": 79,
-                "Empat\u00eda": 84,
-                "Respeto": 70,
-                "Compasi\u00f3n": 82,
-                "Aceptaci\u00f3n Incondicional": 53,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 78,
-                "Observaci\u00f3n": 70
-            },
-            "aptitudes": {
-                "Habilidades Interpersonales": 58,
-                "Manejo de Afectividad": 47,
-                "Planificaci\u00f3n": 64
-            }
-        },
-        "intermedias": {
-            "actitudes": {
-                "Tolerancia": 63,
-                "Valoraci\u00f3n": 42,
-                "Discreci\u00f3n": 52,
-                "Resiliencia": 80,
-                "Adaptabilidad": 69,
-                "Compromiso": 95,
-                "Inter\u00e9s": 43,
-                "Integridad": 45
-            },
-            "aptitudes": {
-                "Manejo de Grupo": 87,
-                "Mentalidad de Crecimiento": 60,
-                "Aptitudes Organizativas": 47
-            }
-        },
-        "avanzadas": {
-            "actitudes": {
-                "Curiosidad": 58,
-                "Optimismo": 42,
-                "Altruismo": 89,
-                "Autenticidad": 94,
-                "Proactividad": 93,
-                "Credibilidad": 44,
-                "Humildad": 85
-            },
-            "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 78,
-                "Habilidades de Pensamiento Reflexivo": 84
-            }
-        },
-        "personalidad": {
-            "Consciencia": 51,
-            "Amabilidad": 97,
-            "Neuroticismo": 87,
-            "Extraversi\u00f3n": 81,
-            "Intelecto-Imaginaci\u00f3n": 55
-        },
-        "departamento": "M\u00e9canica",
-        "region": "Norte",
-        "institucion": "Instituci\u00f3n 2"
-    },
-    "Persona 25": {
-        "_id": 25,
-        "basicas": {
-            "actitudes": {
-                "Madurez": 64,
-                "Responsabilidad": 73,
-                "Empat\u00eda": 85,
-                "Respeto": 63,
-                "Compasi\u00f3n": 40,
-                "Aceptaci\u00f3n Incondicional": 61,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 98,
-                "Observaci\u00f3n": 95
-            },
-            "aptitudes": {
-                "Habilidades Interpersonales": 67,
-                "Manejo de Afectividad": 72,
-                "Planificaci\u00f3n": 73
-            }
-        },
-        "intermedias": {
-            "actitudes": {
-                "Tolerancia": 71,
-                "Valoraci\u00f3n": 95,
-                "Discreci\u00f3n": 66,
-                "Resiliencia": 75,
-                "Adaptabilidad": 73,
-                "Compromiso": 78,
-                "Inter\u00e9s": 54,
-                "Integridad": 62
-            },
-            "aptitudes": {
-                "Manejo de Grupo": 73,
-                "Mentalidad de Crecimiento": 62,
-                "Aptitudes Organizativas": 53
-            }
-        },
-        "avanzadas": {
-            "actitudes": {
-                "Curiosidad": 61,
-                "Optimismo": 91,
-                "Altruismo": 49,
-                "Autenticidad": 78,
-                "Proactividad": 70,
-                "Credibilidad": 96,
-                "Humildad": 86
-            },
-            "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 52,
-                "Habilidades de Pensamiento Reflexivo": 43
-            }
-        },
-        "personalidad": {
-            "Consciencia": 62,
-            "Amabilidad": 52,
-            "Neuroticismo": 88,
-            "Extraversi\u00f3n": 94,
-            "Intelecto-Imaginaci\u00f3n": 53
-        },
-        "departamento": "M\u00e9canica",
-        "region": "Centro",
-        "institucion": "Instituci\u00f3n 1"
-    },
-    "Persona 26": {
-        "_id": 26,
-        "basicas": {
-            "actitudes": {
-                "Madurez": 49,
-                "Responsabilidad": 68,
-                "Empat\u00eda": 85,
-                "Respeto": 95,
-                "Compasi\u00f3n": 73,
+                "Madurez": 96,
+                "Responsabilidad": 16,
+                "Empat\u00eda": 25,
+                "Respeto": 75,
+                "Compasi\u00f3n": 30,
                 "Aceptaci\u00f3n Incondicional": 92,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 84,
-                "Observaci\u00f3n": 40
+                "Orientaci\u00f3n a la Soluci\u00f3n": 48,
+                "Observaci\u00f3n": 88
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 42,
-                "Manejo de Afectividad": 52,
+                "Habilidades Interpersonales": 16,
+                "Manejo de Afectividad": 85,
                 "Planificaci\u00f3n": 87
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 93,
-                "Valoraci\u00f3n": 64,
-                "Discreci\u00f3n": 90,
-                "Resiliencia": 66,
-                "Adaptabilidad": 71,
-                "Compromiso": 59,
-                "Inter\u00e9s": 45,
-                "Integridad": 77
+                "Tolerancia": 19,
+                "Valoraci\u00f3n": 22,
+                "Discreci\u00f3n": 48,
+                "Resiliencia": 75,
+                "Adaptabilidad": 59,
+                "Compromiso": 89,
+                "Inter\u00e9s": 100,
+                "Integridad": 55
             },
             "aptitudes": {
-                "Manejo de Grupo": 41,
-                "Mentalidad de Crecimiento": 67,
-                "Aptitudes Organizativas": 98
+                "Manejo de Grupo": 22,
+                "Mentalidad de Crecimiento": 23,
+                "Aptitudes Organizativas": 16
+            }
+        },
+        "avanzadas": {
+            "actitudes": {
+                "Curiosidad": 22,
+                "Optimismo": 49,
+                "Altruismo": 58,
+                "Autenticidad": 37,
+                "Proactividad": 52,
+                "Credibilidad": 15,
+                "Humildad": 52
+            },
+            "aptitudes": {
+                "Promover Desarrollo Aut\u00f3nomo": 96,
+                "Habilidades de Pensamiento Reflexivo": 23
+            }
+        },
+        "personalidad": {
+            "Consciencia": 52,
+            "Amabilidad": 54,
+            "Neuroticismo": 75,
+            "Extraversi\u00f3n": 40,
+            "Intelecto-Imaginaci\u00f3n": 28
+        },
+        "departamento": "Qu\u00edmica",
+        "region": "Norte",
+        "institucion": "Instituci\u00f3n 3"
+    },
+    "Persona 23": {
+        "_id": 23,
+        "basicas": {
+            "actitudes": {
+                "Madurez": 31,
+                "Responsabilidad": 30,
+                "Empat\u00eda": 76,
+                "Respeto": 47,
+                "Compasi\u00f3n": 83,
+                "Aceptaci\u00f3n Incondicional": 44,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 100,
+                "Observaci\u00f3n": 32
+            },
+            "aptitudes": {
+                "Habilidades Interpersonales": 74,
+                "Manejo de Afectividad": 35,
+                "Planificaci\u00f3n": 98
+            }
+        },
+        "intermedias": {
+            "actitudes": {
+                "Tolerancia": 59,
+                "Valoraci\u00f3n": 28,
+                "Discreci\u00f3n": 29,
+                "Resiliencia": 51,
+                "Adaptabilidad": 61,
+                "Compromiso": 78,
+                "Inter\u00e9s": 91,
+                "Integridad": 35
+            },
+            "aptitudes": {
+                "Manejo de Grupo": 78,
+                "Mentalidad de Crecimiento": 88,
+                "Aptitudes Organizativas": 99
+            }
+        },
+        "avanzadas": {
+            "actitudes": {
+                "Curiosidad": 51,
+                "Optimismo": 55,
+                "Altruismo": 99,
+                "Autenticidad": 48,
+                "Proactividad": 66,
+                "Credibilidad": 59,
+                "Humildad": 60
+            },
+            "aptitudes": {
+                "Promover Desarrollo Aut\u00f3nomo": 41,
+                "Habilidades de Pensamiento Reflexivo": 40
+            }
+        },
+        "personalidad": {
+            "Consciencia": 73,
+            "Amabilidad": 33,
+            "Neuroticismo": 65,
+            "Extraversi\u00f3n": 87,
+            "Intelecto-Imaginaci\u00f3n": 45
+        },
+        "departamento": "Industrial",
+        "region": "Norte",
+        "institucion": "Instituci\u00f3n 2"
+    },
+    "Persona 24": {
+        "_id": 24,
+        "basicas": {
+            "actitudes": {
+                "Madurez": 76,
+                "Responsabilidad": 30,
+                "Empat\u00eda": 80,
+                "Respeto": 18,
+                "Compasi\u00f3n": 74,
+                "Aceptaci\u00f3n Incondicional": 40,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 45,
+                "Observaci\u00f3n": 85
+            },
+            "aptitudes": {
+                "Habilidades Interpersonales": 90,
+                "Manejo de Afectividad": 96,
+                "Planificaci\u00f3n": 44
+            }
+        },
+        "intermedias": {
+            "actitudes": {
+                "Tolerancia": 17,
+                "Valoraci\u00f3n": 80,
+                "Discreci\u00f3n": 43,
+                "Resiliencia": 23,
+                "Adaptabilidad": 59,
+                "Compromiso": 54,
+                "Inter\u00e9s": 29,
+                "Integridad": 39
+            },
+            "aptitudes": {
+                "Manejo de Grupo": 17,
+                "Mentalidad de Crecimiento": 86,
+                "Aptitudes Organizativas": 58
+            }
+        },
+        "avanzadas": {
+            "actitudes": {
+                "Curiosidad": 63,
+                "Optimismo": 32,
+                "Altruismo": 53,
+                "Autenticidad": 63,
+                "Proactividad": 39,
+                "Credibilidad": 20,
+                "Humildad": 96
+            },
+            "aptitudes": {
+                "Promover Desarrollo Aut\u00f3nomo": 94,
+                "Habilidades de Pensamiento Reflexivo": 17
+            }
+        },
+        "personalidad": {
+            "Consciencia": 26,
+            "Amabilidad": 43,
+            "Neuroticismo": 84,
+            "Extraversi\u00f3n": 50,
+            "Intelecto-Imaginaci\u00f3n": 79
+        },
+        "departamento": "Sistemas",
+        "region": "Sur",
+        "institucion": "Instituci\u00f3n 1"
+    },
+    "Persona 25": {
+        "_id": 25,
+        "basicas": {
+            "actitudes": {
+                "Madurez": 19,
+                "Responsabilidad": 32,
+                "Empat\u00eda": 38,
+                "Respeto": 25,
+                "Compasi\u00f3n": 57,
+                "Aceptaci\u00f3n Incondicional": 94,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 57,
+                "Observaci\u00f3n": 97
+            },
+            "aptitudes": {
+                "Habilidades Interpersonales": 95,
+                "Manejo de Afectividad": 87,
+                "Planificaci\u00f3n": 90
+            }
+        },
+        "intermedias": {
+            "actitudes": {
+                "Tolerancia": 68,
+                "Valoraci\u00f3n": 78,
+                "Discreci\u00f3n": 60,
+                "Resiliencia": 95,
+                "Adaptabilidad": 29,
+                "Compromiso": 43,
+                "Inter\u00e9s": 80,
+                "Integridad": 47
+            },
+            "aptitudes": {
+                "Manejo de Grupo": 23,
+                "Mentalidad de Crecimiento": 53,
+                "Aptitudes Organizativas": 34
             }
         },
         "avanzadas": {
             "actitudes": {
                 "Curiosidad": 48,
-                "Optimismo": 77,
-                "Altruismo": 42,
-                "Autenticidad": 81,
-                "Proactividad": 78,
-                "Credibilidad": 52,
-                "Humildad": 46
+                "Optimismo": 72,
+                "Altruismo": 57,
+                "Autenticidad": 64,
+                "Proactividad": 79,
+                "Credibilidad": 22,
+                "Humildad": 67
             },
             "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 73,
-                "Habilidades de Pensamiento Reflexivo": 92
+                "Promover Desarrollo Aut\u00f3nomo": 22,
+                "Habilidades de Pensamiento Reflexivo": 52
             }
         },
         "personalidad": {
-            "Consciencia": 57,
-            "Amabilidad": 93,
-            "Neuroticismo": 61,
-            "Extraversi\u00f3n": 73,
+            "Consciencia": 82,
+            "Amabilidad": 31,
+            "Neuroticismo": 37,
+            "Extraversi\u00f3n": 49,
+            "Intelecto-Imaginaci\u00f3n": 77
+        },
+        "departamento": "M\u00e9canica",
+        "region": "Norte",
+        "institucion": "Instituci\u00f3n 3"
+    },
+    "Persona 26": {
+        "_id": 26,
+        "basicas": {
+            "actitudes": {
+                "Madurez": 53,
+                "Responsabilidad": 50,
+                "Empat\u00eda": 70,
+                "Respeto": 69,
+                "Compasi\u00f3n": 54,
+                "Aceptaci\u00f3n Incondicional": 73,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 56,
+                "Observaci\u00f3n": 65
+            },
+            "aptitudes": {
+                "Habilidades Interpersonales": 87,
+                "Manejo de Afectividad": 65,
+                "Planificaci\u00f3n": 24
+            }
+        },
+        "intermedias": {
+            "actitudes": {
+                "Tolerancia": 68,
+                "Valoraci\u00f3n": 53,
+                "Discreci\u00f3n": 33,
+                "Resiliencia": 29,
+                "Adaptabilidad": 81,
+                "Compromiso": 78,
+                "Inter\u00e9s": 46,
+                "Integridad": 78
+            },
+            "aptitudes": {
+                "Manejo de Grupo": 99,
+                "Mentalidad de Crecimiento": 99,
+                "Aptitudes Organizativas": 25
+            }
+        },
+        "avanzadas": {
+            "actitudes": {
+                "Curiosidad": 77,
+                "Optimismo": 43,
+                "Altruismo": 34,
+                "Autenticidad": 88,
+                "Proactividad": 49,
+                "Credibilidad": 50,
+                "Humildad": 18
+            },
+            "aptitudes": {
+                "Promover Desarrollo Aut\u00f3nomo": 81,
+                "Habilidades de Pensamiento Reflexivo": 98
+            }
+        },
+        "personalidad": {
+            "Consciencia": 36,
+            "Amabilidad": 70,
+            "Neuroticismo": 71,
+            "Extraversi\u00f3n": 89,
             "Intelecto-Imaginaci\u00f3n": 79
         },
         "departamento": "Qu\u00edmica",
         "region": "Norte",
-        "institucion": "Instituci\u00f3n 2"
+        "institucion": "Instituci\u00f3n 1"
     },
     "Persona 27": {
         "_id": 27,
         "basicas": {
             "actitudes": {
-                "Madurez": 100,
-                "Responsabilidad": 40,
-                "Empat\u00eda": 89,
-                "Respeto": 64,
-                "Compasi\u00f3n": 95,
-                "Aceptaci\u00f3n Incondicional": 53,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 45,
-                "Observaci\u00f3n": 42
+                "Madurez": 91,
+                "Responsabilidad": 72,
+                "Empat\u00eda": 74,
+                "Respeto": 60,
+                "Compasi\u00f3n": 43,
+                "Aceptaci\u00f3n Incondicional": 25,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 79,
+                "Observaci\u00f3n": 21
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 95,
-                "Manejo de Afectividad": 82,
-                "Planificaci\u00f3n": 64
+                "Habilidades Interpersonales": 21,
+                "Manejo de Afectividad": 16,
+                "Planificaci\u00f3n": 82
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 86,
-                "Valoraci\u00f3n": 80,
-                "Discreci\u00f3n": 99,
-                "Resiliencia": 75,
-                "Adaptabilidad": 47,
+                "Tolerancia": 50,
+                "Valoraci\u00f3n": 61,
+                "Discreci\u00f3n": 42,
+                "Resiliencia": 76,
+                "Adaptabilidad": 79,
                 "Compromiso": 72,
-                "Inter\u00e9s": 61,
-                "Integridad": 76
+                "Inter\u00e9s": 64,
+                "Integridad": 37
             },
             "aptitudes": {
-                "Manejo de Grupo": 72,
-                "Mentalidad de Crecimiento": 92,
-                "Aptitudes Organizativas": 86
+                "Manejo de Grupo": 18,
+                "Mentalidad de Crecimiento": 29,
+                "Aptitudes Organizativas": 100
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 62,
-                "Optimismo": 94,
-                "Altruismo": 87,
-                "Autenticidad": 45,
-                "Proactividad": 63,
-                "Credibilidad": 50,
-                "Humildad": 82
+                "Curiosidad": 42,
+                "Optimismo": 47,
+                "Altruismo": 32,
+                "Autenticidad": 96,
+                "Proactividad": 36,
+                "Credibilidad": 94,
+                "Humildad": 34
             },
             "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 51,
-                "Habilidades de Pensamiento Reflexivo": 90
+                "Promover Desarrollo Aut\u00f3nomo": 68,
+                "Habilidades de Pensamiento Reflexivo": 96
             }
         },
         "personalidad": {
-            "Consciencia": 85,
-            "Amabilidad": 94,
-            "Neuroticismo": 80,
-            "Extraversi\u00f3n": 60,
-            "Intelecto-Imaginaci\u00f3n": 90
+            "Consciencia": 37,
+            "Amabilidad": 41,
+            "Neuroticismo": 54,
+            "Extraversi\u00f3n": 43,
+            "Intelecto-Imaginaci\u00f3n": 53
         },
-        "departamento": "Qu\u00edmica",
-        "region": "Centro",
-        "institucion": "Instituci\u00f3n 2"
+        "departamento": "Civil",
+        "region": "Sur",
+        "institucion": "Instituci\u00f3n 3"
     },
     "Persona 28": {
         "_id": 28,
         "basicas": {
             "actitudes": {
-                "Madurez": 94,
-                "Responsabilidad": 98,
-                "Empat\u00eda": 53,
-                "Respeto": 45,
-                "Compasi\u00f3n": 54,
-                "Aceptaci\u00f3n Incondicional": 83,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 74,
-                "Observaci\u00f3n": 61
+                "Madurez": 19,
+                "Responsabilidad": 82,
+                "Empat\u00eda": 58,
+                "Respeto": 22,
+                "Compasi\u00f3n": 76,
+                "Aceptaci\u00f3n Incondicional": 75,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 35,
+                "Observaci\u00f3n": 56
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 73,
-                "Manejo de Afectividad": 54,
-                "Planificaci\u00f3n": 55
+                "Habilidades Interpersonales": 21,
+                "Manejo de Afectividad": 43,
+                "Planificaci\u00f3n": 85
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 51,
-                "Valoraci\u00f3n": 70,
-                "Discreci\u00f3n": 55,
-                "Resiliencia": 89,
-                "Adaptabilidad": 69,
+                "Tolerancia": 32,
+                "Valoraci\u00f3n": 77,
+                "Discreci\u00f3n": 20,
+                "Resiliencia": 69,
+                "Adaptabilidad": 62,
                 "Compromiso": 96,
-                "Inter\u00e9s": 62,
-                "Integridad": 44
+                "Inter\u00e9s": 52,
+                "Integridad": 93
             },
             "aptitudes": {
-                "Manejo de Grupo": 59,
-                "Mentalidad de Crecimiento": 68,
-                "Aptitudes Organizativas": 78
+                "Manejo de Grupo": 16,
+                "Mentalidad de Crecimiento": 96,
+                "Aptitudes Organizativas": 50
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 92,
-                "Optimismo": 95,
-                "Altruismo": 95,
-                "Autenticidad": 50,
-                "Proactividad": 52,
-                "Credibilidad": 51,
-                "Humildad": 53
+                "Curiosidad": 77,
+                "Optimismo": 38,
+                "Altruismo": 39,
+                "Autenticidad": 99,
+                "Proactividad": 82,
+                "Credibilidad": 61,
+                "Humildad": 42
             },
             "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 57,
-                "Habilidades de Pensamiento Reflexivo": 84
+                "Promover Desarrollo Aut\u00f3nomo": 94,
+                "Habilidades de Pensamiento Reflexivo": 91
             }
         },
         "personalidad": {
-            "Consciencia": 54,
-            "Amabilidad": 86,
-            "Neuroticismo": 44,
-            "Extraversi\u00f3n": 75,
-            "Intelecto-Imaginaci\u00f3n": 51
+            "Consciencia": 87,
+            "Amabilidad": 96,
+            "Neuroticismo": 76,
+            "Extraversi\u00f3n": 42,
+            "Intelecto-Imaginaci\u00f3n": 79
         },
         "departamento": "Sistemas",
-        "region": "Centro",
+        "region": "Sur",
         "institucion": "Instituci\u00f3n 3"
     },
     "Persona 29": {
         "_id": 29,
         "basicas": {
             "actitudes": {
-                "Madurez": 63,
-                "Responsabilidad": 91,
-                "Empat\u00eda": 86,
-                "Respeto": 74,
-                "Compasi\u00f3n": 40,
-                "Aceptaci\u00f3n Incondicional": 76,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 57,
-                "Observaci\u00f3n": 94
+                "Madurez": 47,
+                "Responsabilidad": 62,
+                "Empat\u00eda": 68,
+                "Respeto": 31,
+                "Compasi\u00f3n": 35,
+                "Aceptaci\u00f3n Incondicional": 21,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 42,
+                "Observaci\u00f3n": 36
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 54,
-                "Manejo de Afectividad": 66,
-                "Planificaci\u00f3n": 73
+                "Habilidades Interpersonales": 61,
+                "Manejo de Afectividad": 47,
+                "Planificaci\u00f3n": 67
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 42,
-                "Valoraci\u00f3n": 73,
-                "Discreci\u00f3n": 43,
-                "Resiliencia": 75,
-                "Adaptabilidad": 57,
-                "Compromiso": 59,
-                "Inter\u00e9s": 69,
-                "Integridad": 63
+                "Tolerancia": 67,
+                "Valoraci\u00f3n": 51,
+                "Discreci\u00f3n": 34,
+                "Resiliencia": 27,
+                "Adaptabilidad": 100,
+                "Compromiso": 91,
+                "Inter\u00e9s": 44,
+                "Integridad": 79
             },
             "aptitudes": {
-                "Manejo de Grupo": 46,
-                "Mentalidad de Crecimiento": 89,
-                "Aptitudes Organizativas": 43
+                "Manejo de Grupo": 44,
+                "Mentalidad de Crecimiento": 75,
+                "Aptitudes Organizativas": 58
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 88,
-                "Optimismo": 61,
-                "Altruismo": 46,
-                "Autenticidad": 48,
-                "Proactividad": 79,
-                "Credibilidad": 80,
-                "Humildad": 94
+                "Curiosidad": 49,
+                "Optimismo": 86,
+                "Altruismo": 74,
+                "Autenticidad": 81,
+                "Proactividad": 50,
+                "Credibilidad": 41,
+                "Humildad": 19
             },
             "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 50,
-                "Habilidades de Pensamiento Reflexivo": 76
+                "Promover Desarrollo Aut\u00f3nomo": 35,
+                "Habilidades de Pensamiento Reflexivo": 80
             }
         },
         "personalidad": {
-            "Consciencia": 80,
-            "Amabilidad": 95,
-            "Neuroticismo": 63,
-            "Extraversi\u00f3n": 41,
-            "Intelecto-Imaginaci\u00f3n": 87
+            "Consciencia": 67,
+            "Amabilidad": 82,
+            "Neuroticismo": 87,
+            "Extraversi\u00f3n": 66,
+            "Intelecto-Imaginaci\u00f3n": 62
         },
-        "departamento": "Civil",
-        "region": "Centro",
-        "institucion": "Instituci\u00f3n 1"
+        "departamento": "Electr\u00f3nica",
+        "region": "Sur",
+        "institucion": "Instituci\u00f3n 2"
     },
     "Persona 30": {
         "_id": 30,
         "basicas": {
             "actitudes": {
-                "Madurez": 98,
-                "Responsabilidad": 50,
-                "Empat\u00eda": 92,
-                "Respeto": 66,
-                "Compasi\u00f3n": 76,
-                "Aceptaci\u00f3n Incondicional": 59,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 92,
-                "Observaci\u00f3n": 40
+                "Madurez": 89,
+                "Responsabilidad": 96,
+                "Empat\u00eda": 48,
+                "Respeto": 51,
+                "Compasi\u00f3n": 41,
+                "Aceptaci\u00f3n Incondicional": 25,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 99,
+                "Observaci\u00f3n": 60
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 52,
-                "Manejo de Afectividad": 93,
-                "Planificaci\u00f3n": 42
+                "Habilidades Interpersonales": 46,
+                "Manejo de Afectividad": 91,
+                "Planificaci\u00f3n": 72
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 76,
-                "Valoraci\u00f3n": 84,
-                "Discreci\u00f3n": 66,
-                "Resiliencia": 51,
-                "Adaptabilidad": 96,
-                "Compromiso": 59,
-                "Inter\u00e9s": 98,
-                "Integridad": 61
+                "Tolerancia": 90,
+                "Valoraci\u00f3n": 67,
+                "Discreci\u00f3n": 35,
+                "Resiliencia": 26,
+                "Adaptabilidad": 58,
+                "Compromiso": 33,
+                "Inter\u00e9s": 72,
+                "Integridad": 39
             },
             "aptitudes": {
-                "Manejo de Grupo": 98,
-                "Mentalidad de Crecimiento": 43,
-                "Aptitudes Organizativas": 79
+                "Manejo de Grupo": 82,
+                "Mentalidad de Crecimiento": 47,
+                "Aptitudes Organizativas": 16
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 66,
-                "Optimismo": 98,
-                "Altruismo": 93,
-                "Autenticidad": 41,
-                "Proactividad": 53,
-                "Credibilidad": 60,
-                "Humildad": 50
+                "Curiosidad": 38,
+                "Optimismo": 28,
+                "Altruismo": 48,
+                "Autenticidad": 67,
+                "Proactividad": 76,
+                "Credibilidad": 86,
+                "Humildad": 32
             },
             "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 76,
-                "Habilidades de Pensamiento Reflexivo": 64
+                "Promover Desarrollo Aut\u00f3nomo": 45,
+                "Habilidades de Pensamiento Reflexivo": 53
             }
         },
         "personalidad": {
-            "Consciencia": 94,
-            "Amabilidad": 59,
-            "Neuroticismo": 90,
-            "Extraversi\u00f3n": 45,
-            "Intelecto-Imaginaci\u00f3n": 41
+            "Consciencia": 100,
+            "Amabilidad": 95,
+            "Neuroticismo": 70,
+            "Extraversi\u00f3n": 91,
+            "Intelecto-Imaginaci\u00f3n": 100
         },
-        "departamento": "Qu\u00edmica",
+        "departamento": "Sistemas",
         "region": "Norte",
         "institucion": "Instituci\u00f3n 1"
     },
@@ -1863,123 +1863,123 @@
         "_id": 31,
         "basicas": {
             "actitudes": {
-                "Madurez": 53,
-                "Responsabilidad": 64,
-                "Empat\u00eda": 58,
-                "Respeto": 96,
-                "Compasi\u00f3n": 92,
-                "Aceptaci\u00f3n Incondicional": 60,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 95,
-                "Observaci\u00f3n": 82
+                "Madurez": 100,
+                "Responsabilidad": 40,
+                "Empat\u00eda": 88,
+                "Respeto": 16,
+                "Compasi\u00f3n": 71,
+                "Aceptaci\u00f3n Incondicional": 75,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 72,
+                "Observaci\u00f3n": 76
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 72,
+                "Habilidades Interpersonales": 55,
                 "Manejo de Afectividad": 85,
-                "Planificaci\u00f3n": 48
+                "Planificaci\u00f3n": 60
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 48,
-                "Valoraci\u00f3n": 49,
-                "Discreci\u00f3n": 42,
-                "Resiliencia": 76,
-                "Adaptabilidad": 46,
-                "Compromiso": 49,
-                "Inter\u00e9s": 72,
-                "Integridad": 51
+                "Tolerancia": 42,
+                "Valoraci\u00f3n": 88,
+                "Discreci\u00f3n": 61,
+                "Resiliencia": 24,
+                "Adaptabilidad": 64,
+                "Compromiso": 71,
+                "Inter\u00e9s": 16,
+                "Integridad": 25
             },
             "aptitudes": {
-                "Manejo de Grupo": 83,
-                "Mentalidad de Crecimiento": 67,
-                "Aptitudes Organizativas": 100
+                "Manejo de Grupo": 76,
+                "Mentalidad de Crecimiento": 80,
+                "Aptitudes Organizativas": 63
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 72,
-                "Optimismo": 96,
-                "Altruismo": 59,
-                "Autenticidad": 51,
-                "Proactividad": 49,
-                "Credibilidad": 70,
-                "Humildad": 64
+                "Curiosidad": 59,
+                "Optimismo": 61,
+                "Altruismo": 54,
+                "Autenticidad": 46,
+                "Proactividad": 38,
+                "Credibilidad": 34,
+                "Humildad": 57
             },
             "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 83,
-                "Habilidades de Pensamiento Reflexivo": 89
+                "Promover Desarrollo Aut\u00f3nomo": 29,
+                "Habilidades de Pensamiento Reflexivo": 49
             }
         },
         "personalidad": {
-            "Consciencia": 40,
-            "Amabilidad": 66,
-            "Neuroticismo": 68,
-            "Extraversi\u00f3n": 89,
-            "Intelecto-Imaginaci\u00f3n": 68
+            "Consciencia": 94,
+            "Amabilidad": 95,
+            "Neuroticismo": 77,
+            "Extraversi\u00f3n": 23,
+            "Intelecto-Imaginaci\u00f3n": 69
         },
-        "departamento": "Industrial",
-        "region": "Centro",
-        "institucion": "Instituci\u00f3n 3"
+        "departamento": "Electr\u00f3nica",
+        "region": "Sur",
+        "institucion": "Instituci\u00f3n 1"
     },
     "Persona 32": {
         "_id": 32,
         "basicas": {
             "actitudes": {
-                "Madurez": 71,
-                "Responsabilidad": 92,
-                "Empat\u00eda": 78,
-                "Respeto": 91,
-                "Compasi\u00f3n": 89,
-                "Aceptaci\u00f3n Incondicional": 61,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 99,
-                "Observaci\u00f3n": 74
+                "Madurez": 77,
+                "Responsabilidad": 64,
+                "Empat\u00eda": 22,
+                "Respeto": 53,
+                "Compasi\u00f3n": 62,
+                "Aceptaci\u00f3n Incondicional": 99,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 48,
+                "Observaci\u00f3n": 70
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 41,
-                "Manejo de Afectividad": 78,
-                "Planificaci\u00f3n": 82
+                "Habilidades Interpersonales": 84,
+                "Manejo de Afectividad": 100,
+                "Planificaci\u00f3n": 78
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 74,
+                "Tolerancia": 94,
                 "Valoraci\u00f3n": 76,
-                "Discreci\u00f3n": 67,
-                "Resiliencia": 50,
-                "Adaptabilidad": 99,
-                "Compromiso": 91,
-                "Inter\u00e9s": 74,
-                "Integridad": 92
+                "Discreci\u00f3n": 47,
+                "Resiliencia": 62,
+                "Adaptabilidad": 52,
+                "Compromiso": 57,
+                "Inter\u00e9s": 47,
+                "Integridad": 52
             },
             "aptitudes": {
-                "Manejo de Grupo": 84,
-                "Mentalidad de Crecimiento": 81,
-                "Aptitudes Organizativas": 95
+                "Manejo de Grupo": 57,
+                "Mentalidad de Crecimiento": 28,
+                "Aptitudes Organizativas": 98
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 90,
-                "Optimismo": 63,
-                "Altruismo": 61,
-                "Autenticidad": 43,
-                "Proactividad": 63,
-                "Credibilidad": 57,
-                "Humildad": 81
+                "Curiosidad": 22,
+                "Optimismo": 39,
+                "Altruismo": 43,
+                "Autenticidad": 34,
+                "Proactividad": 78,
+                "Credibilidad": 99,
+                "Humildad": 95
             },
             "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 51,
-                "Habilidades de Pensamiento Reflexivo": 89
+                "Promover Desarrollo Aut\u00f3nomo": 83,
+                "Habilidades de Pensamiento Reflexivo": 41
             }
         },
         "personalidad": {
-            "Consciencia": 88,
-            "Amabilidad": 89,
-            "Neuroticismo": 40,
-            "Extraversi\u00f3n": 73,
-            "Intelecto-Imaginaci\u00f3n": 90
+            "Consciencia": 53,
+            "Amabilidad": 85,
+            "Neuroticismo": 84,
+            "Extraversi\u00f3n": 42,
+            "Intelecto-Imaginaci\u00f3n": 75
         },
-        "departamento": "M\u00e9canica",
+        "departamento": "Electr\u00f3nica",
         "region": "Centro",
         "institucion": "Instituci\u00f3n 3"
     },
@@ -1987,555 +1987,555 @@
         "_id": 33,
         "basicas": {
             "actitudes": {
-                "Madurez": 95,
-                "Responsabilidad": 96,
-                "Empat\u00eda": 69,
-                "Respeto": 65,
-                "Compasi\u00f3n": 73,
-                "Aceptaci\u00f3n Incondicional": 74,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 71,
-                "Observaci\u00f3n": 63
+                "Madurez": 80,
+                "Responsabilidad": 63,
+                "Empat\u00eda": 18,
+                "Respeto": 15,
+                "Compasi\u00f3n": 76,
+                "Aceptaci\u00f3n Incondicional": 76,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 59,
+                "Observaci\u00f3n": 34
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 93,
-                "Manejo de Afectividad": 67,
-                "Planificaci\u00f3n": 58
+                "Habilidades Interpersonales": 63,
+                "Manejo de Afectividad": 81,
+                "Planificaci\u00f3n": 34
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 67,
-                "Valoraci\u00f3n": 50,
-                "Discreci\u00f3n": 63,
-                "Resiliencia": 89,
-                "Adaptabilidad": 93,
-                "Compromiso": 66,
-                "Inter\u00e9s": 75,
-                "Integridad": 78
+                "Tolerancia": 47,
+                "Valoraci\u00f3n": 75,
+                "Discreci\u00f3n": 61,
+                "Resiliencia": 68,
+                "Adaptabilidad": 36,
+                "Compromiso": 55,
+                "Inter\u00e9s": 19,
+                "Integridad": 83
             },
             "aptitudes": {
-                "Manejo de Grupo": 71,
-                "Mentalidad de Crecimiento": 75,
-                "Aptitudes Organizativas": 90
+                "Manejo de Grupo": 42,
+                "Mentalidad de Crecimiento": 90,
+                "Aptitudes Organizativas": 52
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 78,
-                "Optimismo": 96,
-                "Altruismo": 96,
-                "Autenticidad": 82,
-                "Proactividad": 68,
-                "Credibilidad": 89,
-                "Humildad": 91
+                "Curiosidad": 37,
+                "Optimismo": 85,
+                "Altruismo": 55,
+                "Autenticidad": 30,
+                "Proactividad": 39,
+                "Credibilidad": 74,
+                "Humildad": 70
             },
             "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 60,
-                "Habilidades de Pensamiento Reflexivo": 99
+                "Promover Desarrollo Aut\u00f3nomo": 28,
+                "Habilidades de Pensamiento Reflexivo": 95
             }
         },
         "personalidad": {
-            "Consciencia": 95,
-            "Amabilidad": 64,
-            "Neuroticismo": 56,
-            "Extraversi\u00f3n": 92,
-            "Intelecto-Imaginaci\u00f3n": 87
+            "Consciencia": 42,
+            "Amabilidad": 74,
+            "Neuroticismo": 82,
+            "Extraversi\u00f3n": 99,
+            "Intelecto-Imaginaci\u00f3n": 46
         },
-        "departamento": "Civil",
-        "region": "Centro",
-        "institucion": "Instituci\u00f3n 2"
+        "departamento": "Qu\u00edmica",
+        "region": "Norte",
+        "institucion": "Instituci\u00f3n 1"
     },
     "Persona 34": {
         "_id": 34,
         "basicas": {
             "actitudes": {
-                "Madurez": 84,
+                "Madurez": 16,
                 "Responsabilidad": 52,
-                "Empat\u00eda": 42,
-                "Respeto": 71,
-                "Compasi\u00f3n": 75,
-                "Aceptaci\u00f3n Incondicional": 89,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 42,
-                "Observaci\u00f3n": 66
+                "Empat\u00eda": 23,
+                "Respeto": 76,
+                "Compasi\u00f3n": 51,
+                "Aceptaci\u00f3n Incondicional": 37,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 46,
+                "Observaci\u00f3n": 43
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 48,
-                "Manejo de Afectividad": 41,
-                "Planificaci\u00f3n": 73
+                "Habilidades Interpersonales": 41,
+                "Manejo de Afectividad": 23,
+                "Planificaci\u00f3n": 89
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 99,
-                "Valoraci\u00f3n": 71,
-                "Discreci\u00f3n": 52,
-                "Resiliencia": 89,
-                "Adaptabilidad": 59,
-                "Compromiso": 82,
-                "Inter\u00e9s": 93,
-                "Integridad": 92
+                "Tolerancia": 30,
+                "Valoraci\u00f3n": 47,
+                "Discreci\u00f3n": 44,
+                "Resiliencia": 15,
+                "Adaptabilidad": 80,
+                "Compromiso": 78,
+                "Inter\u00e9s": 35,
+                "Integridad": 74
             },
             "aptitudes": {
-                "Manejo de Grupo": 58,
-                "Mentalidad de Crecimiento": 58,
-                "Aptitudes Organizativas": 72
+                "Manejo de Grupo": 59,
+                "Mentalidad de Crecimiento": 94,
+                "Aptitudes Organizativas": 64
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 69,
-                "Optimismo": 98,
-                "Altruismo": 90,
-                "Autenticidad": 75,
-                "Proactividad": 80,
-                "Credibilidad": 71,
-                "Humildad": 45
+                "Curiosidad": 56,
+                "Optimismo": 48,
+                "Altruismo": 83,
+                "Autenticidad": 96,
+                "Proactividad": 43,
+                "Credibilidad": 63,
+                "Humildad": 100
             },
             "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 93,
-                "Habilidades de Pensamiento Reflexivo": 60
+                "Promover Desarrollo Aut\u00f3nomo": 29,
+                "Habilidades de Pensamiento Reflexivo": 94
             }
         },
         "personalidad": {
-            "Consciencia": 82,
-            "Amabilidad": 81,
-            "Neuroticismo": 56,
-            "Extraversi\u00f3n": 53,
-            "Intelecto-Imaginaci\u00f3n": 50
+            "Consciencia": 40,
+            "Amabilidad": 85,
+            "Neuroticismo": 53,
+            "Extraversi\u00f3n": 46,
+            "Intelecto-Imaginaci\u00f3n": 40
         },
-        "departamento": "Industrial",
-        "region": "Norte",
+        "departamento": "Sistemas",
+        "region": "Sur",
         "institucion": "Instituci\u00f3n 3"
     },
     "Persona 35": {
         "_id": 35,
         "basicas": {
             "actitudes": {
-                "Madurez": 53,
-                "Responsabilidad": 45,
-                "Empat\u00eda": 80,
-                "Respeto": 60,
-                "Compasi\u00f3n": 97,
-                "Aceptaci\u00f3n Incondicional": 100,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 46,
-                "Observaci\u00f3n": 60
+                "Madurez": 59,
+                "Responsabilidad": 34,
+                "Empat\u00eda": 33,
+                "Respeto": 53,
+                "Compasi\u00f3n": 43,
+                "Aceptaci\u00f3n Incondicional": 41,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 54,
+                "Observaci\u00f3n": 48
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 61,
-                "Manejo de Afectividad": 70,
-                "Planificaci\u00f3n": 54
+                "Habilidades Interpersonales": 94,
+                "Manejo de Afectividad": 16,
+                "Planificaci\u00f3n": 79
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 65,
-                "Valoraci\u00f3n": 89,
-                "Discreci\u00f3n": 66,
-                "Resiliencia": 100,
-                "Adaptabilidad": 63,
-                "Compromiso": 44,
-                "Inter\u00e9s": 40,
-                "Integridad": 61
+                "Tolerancia": 64,
+                "Valoraci\u00f3n": 85,
+                "Discreci\u00f3n": 76,
+                "Resiliencia": 38,
+                "Adaptabilidad": 41,
+                "Compromiso": 69,
+                "Inter\u00e9s": 63,
+                "Integridad": 29
             },
             "aptitudes": {
-                "Manejo de Grupo": 50,
-                "Mentalidad de Crecimiento": 86,
-                "Aptitudes Organizativas": 86
+                "Manejo de Grupo": 18,
+                "Mentalidad de Crecimiento": 23,
+                "Aptitudes Organizativas": 46
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 68,
-                "Optimismo": 73,
-                "Altruismo": 83,
-                "Autenticidad": 73,
-                "Proactividad": 94,
-                "Credibilidad": 45,
-                "Humildad": 79
+                "Curiosidad": 25,
+                "Optimismo": 89,
+                "Altruismo": 15,
+                "Autenticidad": 91,
+                "Proactividad": 99,
+                "Credibilidad": 42,
+                "Humildad": 26
             },
             "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 93,
-                "Habilidades de Pensamiento Reflexivo": 51
+                "Promover Desarrollo Aut\u00f3nomo": 74,
+                "Habilidades de Pensamiento Reflexivo": 88
             }
         },
         "personalidad": {
-            "Consciencia": 94,
-            "Amabilidad": 94,
-            "Neuroticismo": 68,
-            "Extraversi\u00f3n": 45,
-            "Intelecto-Imaginaci\u00f3n": 47
+            "Consciencia": 96,
+            "Amabilidad": 98,
+            "Neuroticismo": 67,
+            "Extraversi\u00f3n": 80,
+            "Intelecto-Imaginaci\u00f3n": 38
         },
-        "departamento": "Sistemas",
-        "region": "Norte",
+        "departamento": "M\u00e9canica",
+        "region": "Sur",
         "institucion": "Instituci\u00f3n 1"
     },
     "Persona 36": {
         "_id": 36,
         "basicas": {
             "actitudes": {
-                "Madurez": 72,
-                "Responsabilidad": 93,
-                "Empat\u00eda": 40,
-                "Respeto": 67,
-                "Compasi\u00f3n": 60,
-                "Aceptaci\u00f3n Incondicional": 59,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 67,
-                "Observaci\u00f3n": 46
+                "Madurez": 41,
+                "Responsabilidad": 68,
+                "Empat\u00eda": 15,
+                "Respeto": 85,
+                "Compasi\u00f3n": 99,
+                "Aceptaci\u00f3n Incondicional": 72,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 37,
+                "Observaci\u00f3n": 83
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 63,
-                "Manejo de Afectividad": 86,
-                "Planificaci\u00f3n": 47
+                "Habilidades Interpersonales": 21,
+                "Manejo de Afectividad": 71,
+                "Planificaci\u00f3n": 90
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 66,
-                "Valoraci\u00f3n": 91,
-                "Discreci\u00f3n": 66,
-                "Resiliencia": 99,
-                "Adaptabilidad": 64,
-                "Compromiso": 44,
-                "Inter\u00e9s": 78,
-                "Integridad": 59
-            },
-            "aptitudes": {
-                "Manejo de Grupo": 84,
-                "Mentalidad de Crecimiento": 98,
-                "Aptitudes Organizativas": 83
-            }
-        },
-        "avanzadas": {
-            "actitudes": {
-                "Curiosidad": 67,
-                "Optimismo": 53,
-                "Altruismo": 77,
-                "Autenticidad": 72,
-                "Proactividad": 89,
-                "Credibilidad": 65,
-                "Humildad": 77
-            },
-            "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 73,
-                "Habilidades de Pensamiento Reflexivo": 57
-            }
-        },
-        "personalidad": {
-            "Consciencia": 72,
-            "Amabilidad": 67,
-            "Neuroticismo": 55,
-            "Extraversi\u00f3n": 69,
-            "Intelecto-Imaginaci\u00f3n": 73
-        },
-        "departamento": "Industrial",
-        "region": "Centro",
-        "institucion": "Instituci\u00f3n 3"
-    },
-    "Persona 37": {
-        "_id": 37,
-        "basicas": {
-            "actitudes": {
-                "Madurez": 91,
-                "Responsabilidad": 43,
-                "Empat\u00eda": 79,
-                "Respeto": 71,
-                "Compasi\u00f3n": 61,
-                "Aceptaci\u00f3n Incondicional": 82,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 74,
-                "Observaci\u00f3n": 78
-            },
-            "aptitudes": {
-                "Habilidades Interpersonales": 66,
-                "Manejo de Afectividad": 74,
-                "Planificaci\u00f3n": 80
-            }
-        },
-        "intermedias": {
-            "actitudes": {
-                "Tolerancia": 49,
-                "Valoraci\u00f3n": 57,
-                "Discreci\u00f3n": 53,
-                "Resiliencia": 88,
-                "Adaptabilidad": 82,
-                "Compromiso": 55,
-                "Inter\u00e9s": 92,
-                "Integridad": 83
+                "Tolerancia": 25,
+                "Valoraci\u00f3n": 99,
+                "Discreci\u00f3n": 58,
+                "Resiliencia": 97,
+                "Adaptabilidad": 89,
+                "Compromiso": 89,
+                "Inter\u00e9s": 83,
+                "Integridad": 63
             },
             "aptitudes": {
                 "Manejo de Grupo": 95,
-                "Mentalidad de Crecimiento": 74,
-                "Aptitudes Organizativas": 64
-            }
-        },
-        "avanzadas": {
-            "actitudes": {
-                "Curiosidad": 66,
-                "Optimismo": 68,
-                "Altruismo": 59,
-                "Autenticidad": 93,
-                "Proactividad": 68,
-                "Credibilidad": 63,
-                "Humildad": 83
-            },
-            "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 68,
-                "Habilidades de Pensamiento Reflexivo": 50
-            }
-        },
-        "personalidad": {
-            "Consciencia": 69,
-            "Amabilidad": 71,
-            "Neuroticismo": 47,
-            "Extraversi\u00f3n": 58,
-            "Intelecto-Imaginaci\u00f3n": 63
-        },
-        "departamento": "Electr\u00f3nica",
-        "region": "Norte",
-        "institucion": "Instituci\u00f3n 3"
-    },
-    "Persona 38": {
-        "_id": 38,
-        "basicas": {
-            "actitudes": {
-                "Madurez": 78,
-                "Responsabilidad": 41,
-                "Empat\u00eda": 55,
-                "Respeto": 78,
-                "Compasi\u00f3n": 95,
-                "Aceptaci\u00f3n Incondicional": 64,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 49,
-                "Observaci\u00f3n": 63
-            },
-            "aptitudes": {
-                "Habilidades Interpersonales": 99,
-                "Manejo de Afectividad": 100,
-                "Planificaci\u00f3n": 63
-            }
-        },
-        "intermedias": {
-            "actitudes": {
-                "Tolerancia": 53,
-                "Valoraci\u00f3n": 69,
-                "Discreci\u00f3n": 67,
-                "Resiliencia": 95,
-                "Adaptabilidad": 41,
-                "Compromiso": 68,
-                "Inter\u00e9s": 85,
-                "Integridad": 40
-            },
-            "aptitudes": {
-                "Manejo de Grupo": 62,
-                "Mentalidad de Crecimiento": 53,
-                "Aptitudes Organizativas": 92
-            }
-        },
-        "avanzadas": {
-            "actitudes": {
-                "Curiosidad": 45,
-                "Optimismo": 73,
-                "Altruismo": 87,
-                "Autenticidad": 63,
-                "Proactividad": 46,
-                "Credibilidad": 50,
-                "Humildad": 78
-            },
-            "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 83,
-                "Habilidades de Pensamiento Reflexivo": 74
-            }
-        },
-        "personalidad": {
-            "Consciencia": 59,
-            "Amabilidad": 98,
-            "Neuroticismo": 81,
-            "Extraversi\u00f3n": 42,
-            "Intelecto-Imaginaci\u00f3n": 87
-        },
-        "departamento": "Qu\u00edmica",
-        "region": "Sur",
-        "institucion": "Instituci\u00f3n 3"
-    },
-    "Persona 39": {
-        "_id": 39,
-        "basicas": {
-            "actitudes": {
-                "Madurez": 49,
-                "Responsabilidad": 85,
-                "Empat\u00eda": 89,
-                "Respeto": 53,
-                "Compasi\u00f3n": 79,
-                "Aceptaci\u00f3n Incondicional": 79,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 49,
-                "Observaci\u00f3n": 47
-            },
-            "aptitudes": {
-                "Habilidades Interpersonales": 100,
-                "Manejo de Afectividad": 60,
-                "Planificaci\u00f3n": 87
-            }
-        },
-        "intermedias": {
-            "actitudes": {
-                "Tolerancia": 94,
-                "Valoraci\u00f3n": 63,
-                "Discreci\u00f3n": 68,
-                "Resiliencia": 77,
-                "Adaptabilidad": 86,
-                "Compromiso": 50,
-                "Inter\u00e9s": 71,
-                "Integridad": 66
-            },
-            "aptitudes": {
-                "Manejo de Grupo": 94,
-                "Mentalidad de Crecimiento": 68,
-                "Aptitudes Organizativas": 78
-            }
-        },
-        "avanzadas": {
-            "actitudes": {
-                "Curiosidad": 81,
-                "Optimismo": 88,
-                "Altruismo": 53,
-                "Autenticidad": 51,
-                "Proactividad": 81,
-                "Credibilidad": 87,
-                "Humildad": 57
-            },
-            "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 68,
-                "Habilidades de Pensamiento Reflexivo": 90
-            }
-        },
-        "personalidad": {
-            "Consciencia": 62,
-            "Amabilidad": 45,
-            "Neuroticismo": 73,
-            "Extraversi\u00f3n": 85,
-            "Intelecto-Imaginaci\u00f3n": 75
-        },
-        "departamento": "Sistemas",
-        "region": "Centro",
-        "institucion": "Instituci\u00f3n 1"
-    },
-    "Persona 40": {
-        "_id": 40,
-        "basicas": {
-            "actitudes": {
-                "Madurez": 98,
-                "Responsabilidad": 90,
-                "Empat\u00eda": 89,
-                "Respeto": 50,
-                "Compasi\u00f3n": 86,
-                "Aceptaci\u00f3n Incondicional": 75,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 51,
-                "Observaci\u00f3n": 55
-            },
-            "aptitudes": {
-                "Habilidades Interpersonales": 85,
-                "Manejo de Afectividad": 69,
-                "Planificaci\u00f3n": 78
-            }
-        },
-        "intermedias": {
-            "actitudes": {
-                "Tolerancia": 40,
-                "Valoraci\u00f3n": 51,
-                "Discreci\u00f3n": 52,
-                "Resiliencia": 100,
-                "Adaptabilidad": 45,
-                "Compromiso": 100,
-                "Inter\u00e9s": 70,
-                "Integridad": 58
-            },
-            "aptitudes": {
-                "Manejo de Grupo": 86,
-                "Mentalidad de Crecimiento": 78,
-                "Aptitudes Organizativas": 100
-            }
-        },
-        "avanzadas": {
-            "actitudes": {
-                "Curiosidad": 92,
-                "Optimismo": 80,
-                "Altruismo": 55,
-                "Autenticidad": 73,
-                "Proactividad": 86,
-                "Credibilidad": 59,
-                "Humildad": 57
-            },
-            "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 60,
-                "Habilidades de Pensamiento Reflexivo": 65
-            }
-        },
-        "personalidad": {
-            "Consciencia": 58,
-            "Amabilidad": 52,
-            "Neuroticismo": 42,
-            "Extraversi\u00f3n": 50,
-            "Intelecto-Imaginaci\u00f3n": 74
-        },
-        "departamento": "Civil",
-        "region": "Sur",
-        "institucion": "Instituci\u00f3n 1"
-    },
-    "Persona 41": {
-        "_id": 41,
-        "basicas": {
-            "actitudes": {
-                "Madurez": 69,
-                "Responsabilidad": 44,
-                "Empat\u00eda": 62,
-                "Respeto": 43,
-                "Compasi\u00f3n": 44,
-                "Aceptaci\u00f3n Incondicional": 76,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 92,
-                "Observaci\u00f3n": 88
-            },
-            "aptitudes": {
-                "Habilidades Interpersonales": 49,
-                "Manejo de Afectividad": 65,
-                "Planificaci\u00f3n": 84
-            }
-        },
-        "intermedias": {
-            "actitudes": {
-                "Tolerancia": 89,
-                "Valoraci\u00f3n": 100,
-                "Discreci\u00f3n": 41,
-                "Resiliencia": 96,
-                "Adaptabilidad": 62,
-                "Compromiso": 48,
-                "Inter\u00e9s": 40,
-                "Integridad": 88
-            },
-            "aptitudes": {
-                "Manejo de Grupo": 57,
-                "Mentalidad de Crecimiento": 43,
+                "Mentalidad de Crecimiento": 95,
                 "Aptitudes Organizativas": 84
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 79,
-                "Optimismo": 87,
-                "Altruismo": 85,
-                "Autenticidad": 46,
-                "Proactividad": 44,
-                "Credibilidad": 95,
-                "Humildad": 56
+                "Curiosidad": 25,
+                "Optimismo": 94,
+                "Altruismo": 44,
+                "Autenticidad": 24,
+                "Proactividad": 16,
+                "Credibilidad": 34,
+                "Humildad": 26
             },
             "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 87,
-                "Habilidades de Pensamiento Reflexivo": 82
+                "Promover Desarrollo Aut\u00f3nomo": 23,
+                "Habilidades de Pensamiento Reflexivo": 19
             }
         },
         "personalidad": {
-            "Consciencia": 92,
+            "Consciencia": 71,
+            "Amabilidad": 22,
+            "Neuroticismo": 70,
+            "Extraversi\u00f3n": 17,
+            "Intelecto-Imaginaci\u00f3n": 38
+        },
+        "departamento": "Qu\u00edmica",
+        "region": "Sur",
+        "institucion": "Instituci\u00f3n 2"
+    },
+    "Persona 37": {
+        "_id": 37,
+        "basicas": {
+            "actitudes": {
+                "Madurez": 32,
+                "Responsabilidad": 51,
+                "Empat\u00eda": 80,
+                "Respeto": 99,
+                "Compasi\u00f3n": 26,
+                "Aceptaci\u00f3n Incondicional": 35,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 68,
+                "Observaci\u00f3n": 44
+            },
+            "aptitudes": {
+                "Habilidades Interpersonales": 100,
+                "Manejo de Afectividad": 37,
+                "Planificaci\u00f3n": 67
+            }
+        },
+        "intermedias": {
+            "actitudes": {
+                "Tolerancia": 86,
+                "Valoraci\u00f3n": 77,
+                "Discreci\u00f3n": 34,
+                "Resiliencia": 61,
+                "Adaptabilidad": 63,
+                "Compromiso": 39,
+                "Inter\u00e9s": 47,
+                "Integridad": 26
+            },
+            "aptitudes": {
+                "Manejo de Grupo": 72,
+                "Mentalidad de Crecimiento": 19,
+                "Aptitudes Organizativas": 18
+            }
+        },
+        "avanzadas": {
+            "actitudes": {
+                "Curiosidad": 72,
+                "Optimismo": 78,
+                "Altruismo": 19,
+                "Autenticidad": 96,
+                "Proactividad": 78,
+                "Credibilidad": 32,
+                "Humildad": 31
+            },
+            "aptitudes": {
+                "Promover Desarrollo Aut\u00f3nomo": 82,
+                "Habilidades de Pensamiento Reflexivo": 44
+            }
+        },
+        "personalidad": {
+            "Consciencia": 62,
+            "Amabilidad": 91,
+            "Neuroticismo": 31,
+            "Extraversi\u00f3n": 20,
+            "Intelecto-Imaginaci\u00f3n": 42
+        },
+        "departamento": "Industrial",
+        "region": "Centro",
+        "institucion": "Instituci\u00f3n 1"
+    },
+    "Persona 38": {
+        "_id": 38,
+        "basicas": {
+            "actitudes": {
+                "Madurez": 35,
+                "Responsabilidad": 49,
+                "Empat\u00eda": 28,
+                "Respeto": 15,
+                "Compasi\u00f3n": 54,
+                "Aceptaci\u00f3n Incondicional": 19,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 91,
+                "Observaci\u00f3n": 43
+            },
+            "aptitudes": {
+                "Habilidades Interpersonales": 58,
+                "Manejo de Afectividad": 18,
+                "Planificaci\u00f3n": 87
+            }
+        },
+        "intermedias": {
+            "actitudes": {
+                "Tolerancia": 42,
+                "Valoraci\u00f3n": 34,
+                "Discreci\u00f3n": 65,
+                "Resiliencia": 47,
+                "Adaptabilidad": 29,
+                "Compromiso": 43,
+                "Inter\u00e9s": 62,
+                "Integridad": 64
+            },
+            "aptitudes": {
+                "Manejo de Grupo": 34,
+                "Mentalidad de Crecimiento": 97,
+                "Aptitudes Organizativas": 83
+            }
+        },
+        "avanzadas": {
+            "actitudes": {
+                "Curiosidad": 26,
+                "Optimismo": 22,
+                "Altruismo": 65,
+                "Autenticidad": 29,
+                "Proactividad": 82,
+                "Credibilidad": 34,
+                "Humildad": 70
+            },
+            "aptitudes": {
+                "Promover Desarrollo Aut\u00f3nomo": 28,
+                "Habilidades de Pensamiento Reflexivo": 28
+            }
+        },
+        "personalidad": {
+            "Consciencia": 66,
+            "Amabilidad": 66,
+            "Neuroticismo": 44,
+            "Extraversi\u00f3n": 89,
+            "Intelecto-Imaginaci\u00f3n": 92
+        },
+        "departamento": "Qu\u00edmica",
+        "region": "Sur",
+        "institucion": "Instituci\u00f3n 2"
+    },
+    "Persona 39": {
+        "_id": 39,
+        "basicas": {
+            "actitudes": {
+                "Madurez": 45,
+                "Responsabilidad": 89,
+                "Empat\u00eda": 98,
+                "Respeto": 100,
+                "Compasi\u00f3n": 45,
+                "Aceptaci\u00f3n Incondicional": 48,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 66,
+                "Observaci\u00f3n": 29
+            },
+            "aptitudes": {
+                "Habilidades Interpersonales": 78,
+                "Manejo de Afectividad": 34,
+                "Planificaci\u00f3n": 32
+            }
+        },
+        "intermedias": {
+            "actitudes": {
+                "Tolerancia": 60,
+                "Valoraci\u00f3n": 63,
+                "Discreci\u00f3n": 72,
+                "Resiliencia": 56,
+                "Adaptabilidad": 50,
+                "Compromiso": 24,
+                "Inter\u00e9s": 95,
+                "Integridad": 49
+            },
+            "aptitudes": {
+                "Manejo de Grupo": 98,
+                "Mentalidad de Crecimiento": 81,
+                "Aptitudes Organizativas": 34
+            }
+        },
+        "avanzadas": {
+            "actitudes": {
+                "Curiosidad": 47,
+                "Optimismo": 24,
+                "Altruismo": 50,
+                "Autenticidad": 33,
+                "Proactividad": 47,
+                "Credibilidad": 20,
+                "Humildad": 93
+            },
+            "aptitudes": {
+                "Promover Desarrollo Aut\u00f3nomo": 26,
+                "Habilidades de Pensamiento Reflexivo": 56
+            }
+        },
+        "personalidad": {
+            "Consciencia": 24,
             "Amabilidad": 83,
-            "Neuroticismo": 48,
-            "Extraversi\u00f3n": 81,
-            "Intelecto-Imaginaci\u00f3n": 64
+            "Neuroticismo": 91,
+            "Extraversi\u00f3n": 31,
+            "Intelecto-Imaginaci\u00f3n": 88
+        },
+        "departamento": "Qu\u00edmica",
+        "region": "Norte",
+        "institucion": "Instituci\u00f3n 3"
+    },
+    "Persona 40": {
+        "_id": 40,
+        "basicas": {
+            "actitudes": {
+                "Madurez": 84,
+                "Responsabilidad": 29,
+                "Empat\u00eda": 72,
+                "Respeto": 60,
+                "Compasi\u00f3n": 58,
+                "Aceptaci\u00f3n Incondicional": 41,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 52,
+                "Observaci\u00f3n": 27
+            },
+            "aptitudes": {
+                "Habilidades Interpersonales": 15,
+                "Manejo de Afectividad": 57,
+                "Planificaci\u00f3n": 76
+            }
+        },
+        "intermedias": {
+            "actitudes": {
+                "Tolerancia": 24,
+                "Valoraci\u00f3n": 42,
+                "Discreci\u00f3n": 42,
+                "Resiliencia": 18,
+                "Adaptabilidad": 92,
+                "Compromiso": 52,
+                "Inter\u00e9s": 52,
+                "Integridad": 53
+            },
+            "aptitudes": {
+                "Manejo de Grupo": 68,
+                "Mentalidad de Crecimiento": 32,
+                "Aptitudes Organizativas": 18
+            }
+        },
+        "avanzadas": {
+            "actitudes": {
+                "Curiosidad": 47,
+                "Optimismo": 71,
+                "Altruismo": 26,
+                "Autenticidad": 23,
+                "Proactividad": 20,
+                "Credibilidad": 26,
+                "Humildad": 78
+            },
+            "aptitudes": {
+                "Promover Desarrollo Aut\u00f3nomo": 42,
+                "Habilidades de Pensamiento Reflexivo": 50
+            }
+        },
+        "personalidad": {
+            "Consciencia": 26,
+            "Amabilidad": 19,
+            "Neuroticismo": 24,
+            "Extraversi\u00f3n": 21,
+            "Intelecto-Imaginaci\u00f3n": 32
+        },
+        "departamento": "Civil",
+        "region": "Norte",
+        "institucion": "Instituci\u00f3n 2"
+    },
+    "Persona 41": {
+        "_id": 41,
+        "basicas": {
+            "actitudes": {
+                "Madurez": 99,
+                "Responsabilidad": 47,
+                "Empat\u00eda": 60,
+                "Respeto": 99,
+                "Compasi\u00f3n": 34,
+                "Aceptaci\u00f3n Incondicional": 59,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 87,
+                "Observaci\u00f3n": 76
+            },
+            "aptitudes": {
+                "Habilidades Interpersonales": 97,
+                "Manejo de Afectividad": 19,
+                "Planificaci\u00f3n": 18
+            }
+        },
+        "intermedias": {
+            "actitudes": {
+                "Tolerancia": 76,
+                "Valoraci\u00f3n": 64,
+                "Discreci\u00f3n": 52,
+                "Resiliencia": 51,
+                "Adaptabilidad": 58,
+                "Compromiso": 36,
+                "Inter\u00e9s": 70,
+                "Integridad": 22
+            },
+            "aptitudes": {
+                "Manejo de Grupo": 88,
+                "Mentalidad de Crecimiento": 61,
+                "Aptitudes Organizativas": 35
+            }
+        },
+        "avanzadas": {
+            "actitudes": {
+                "Curiosidad": 83,
+                "Optimismo": 54,
+                "Altruismo": 84,
+                "Autenticidad": 34,
+                "Proactividad": 25,
+                "Credibilidad": 100,
+                "Humildad": 82
+            },
+            "aptitudes": {
+                "Promover Desarrollo Aut\u00f3nomo": 66,
+                "Habilidades de Pensamiento Reflexivo": 100
+            }
+        },
+        "personalidad": {
+            "Consciencia": 30,
+            "Amabilidad": 79,
+            "Neuroticismo": 90,
+            "Extraversi\u00f3n": 100,
+            "Intelecto-Imaginaci\u00f3n": 97
         },
         "departamento": "M\u00e9canica",
         "region": "Norte",
@@ -2545,493 +2545,493 @@
         "_id": 42,
         "basicas": {
             "actitudes": {
-                "Madurez": 85,
-                "Responsabilidad": 44,
-                "Empat\u00eda": 94,
-                "Respeto": 80,
-                "Compasi\u00f3n": 64,
-                "Aceptaci\u00f3n Incondicional": 49,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 58,
-                "Observaci\u00f3n": 64
+                "Madurez": 88,
+                "Responsabilidad": 67,
+                "Empat\u00eda": 69,
+                "Respeto": 32,
+                "Compasi\u00f3n": 92,
+                "Aceptaci\u00f3n Incondicional": 71,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 75,
+                "Observaci\u00f3n": 81
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 41,
-                "Manejo de Afectividad": 100,
-                "Planificaci\u00f3n": 40
+                "Habilidades Interpersonales": 51,
+                "Manejo de Afectividad": 87,
+                "Planificaci\u00f3n": 90
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 95,
-                "Valoraci\u00f3n": 88,
-                "Discreci\u00f3n": 86,
-                "Resiliencia": 81,
-                "Adaptabilidad": 66,
-                "Compromiso": 58,
-                "Inter\u00e9s": 81,
-                "Integridad": 51
+                "Tolerancia": 44,
+                "Valoraci\u00f3n": 40,
+                "Discreci\u00f3n": 23,
+                "Resiliencia": 16,
+                "Adaptabilidad": 24,
+                "Compromiso": 76,
+                "Inter\u00e9s": 80,
+                "Integridad": 26
             },
             "aptitudes": {
                 "Manejo de Grupo": 74,
-                "Mentalidad de Crecimiento": 47,
-                "Aptitudes Organizativas": 68
+                "Mentalidad de Crecimiento": 91,
+                "Aptitudes Organizativas": 92
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 56,
-                "Optimismo": 70,
-                "Altruismo": 90,
-                "Autenticidad": 70,
-                "Proactividad": 83,
-                "Credibilidad": 60,
-                "Humildad": 85
+                "Curiosidad": 64,
+                "Optimismo": 74,
+                "Altruismo": 36,
+                "Autenticidad": 37,
+                "Proactividad": 24,
+                "Credibilidad": 65,
+                "Humildad": 44
             },
             "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 94,
-                "Habilidades de Pensamiento Reflexivo": 48
+                "Promover Desarrollo Aut\u00f3nomo": 42,
+                "Habilidades de Pensamiento Reflexivo": 70
             }
         },
         "personalidad": {
-            "Consciencia": 71,
-            "Amabilidad": 72,
-            "Neuroticismo": 81,
-            "Extraversi\u00f3n": 89,
-            "Intelecto-Imaginaci\u00f3n": 67
+            "Consciencia": 70,
+            "Amabilidad": 19,
+            "Neuroticismo": 93,
+            "Extraversi\u00f3n": 60,
+            "Intelecto-Imaginaci\u00f3n": 24
         },
-        "departamento": "Civil",
+        "departamento": "Electr\u00f3nica",
         "region": "Sur",
-        "institucion": "Instituci\u00f3n 1"
+        "institucion": "Instituci\u00f3n 2"
     },
     "Persona 43": {
         "_id": 43,
         "basicas": {
             "actitudes": {
-                "Madurez": 51,
-                "Responsabilidad": 53,
-                "Empat\u00eda": 80,
-                "Respeto": 83,
-                "Compasi\u00f3n": 63,
-                "Aceptaci\u00f3n Incondicional": 60,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 98,
-                "Observaci\u00f3n": 61
+                "Madurez": 80,
+                "Responsabilidad": 73,
+                "Empat\u00eda": 64,
+                "Respeto": 77,
+                "Compasi\u00f3n": 59,
+                "Aceptaci\u00f3n Incondicional": 49,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 55,
+                "Observaci\u00f3n": 76
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 97,
-                "Manejo de Afectividad": 49,
-                "Planificaci\u00f3n": 52
+                "Habilidades Interpersonales": 49,
+                "Manejo de Afectividad": 67,
+                "Planificaci\u00f3n": 86
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 87,
-                "Valoraci\u00f3n": 43,
-                "Discreci\u00f3n": 94,
-                "Resiliencia": 57,
-                "Adaptabilidad": 92,
-                "Compromiso": 44,
-                "Inter\u00e9s": 55,
-                "Integridad": 89
+                "Tolerancia": 45,
+                "Valoraci\u00f3n": 65,
+                "Discreci\u00f3n": 33,
+                "Resiliencia": 60,
+                "Adaptabilidad": 71,
+                "Compromiso": 50,
+                "Inter\u00e9s": 47,
+                "Integridad": 25
             },
             "aptitudes": {
-                "Manejo de Grupo": 58,
-                "Mentalidad de Crecimiento": 100,
-                "Aptitudes Organizativas": 82
+                "Manejo de Grupo": 71,
+                "Mentalidad de Crecimiento": 46,
+                "Aptitudes Organizativas": 90
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 46,
-                "Optimismo": 98,
-                "Altruismo": 47,
-                "Autenticidad": 74,
-                "Proactividad": 88,
-                "Credibilidad": 92,
-                "Humildad": 56
+                "Curiosidad": 80,
+                "Optimismo": 69,
+                "Altruismo": 87,
+                "Autenticidad": 81,
+                "Proactividad": 51,
+                "Credibilidad": 31,
+                "Humildad": 79
             },
             "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 60,
-                "Habilidades de Pensamiento Reflexivo": 79
+                "Promover Desarrollo Aut\u00f3nomo": 28,
+                "Habilidades de Pensamiento Reflexivo": 35
             }
         },
         "personalidad": {
-            "Consciencia": 80,
-            "Amabilidad": 92,
-            "Neuroticismo": 62,
-            "Extraversi\u00f3n": 53,
-            "Intelecto-Imaginaci\u00f3n": 42
+            "Consciencia": 97,
+            "Amabilidad": 37,
+            "Neuroticismo": 22,
+            "Extraversi\u00f3n": 77,
+            "Intelecto-Imaginaci\u00f3n": 87
         },
-        "departamento": "Electr\u00f3nica",
+        "departamento": "Sistemas",
         "region": "Norte",
-        "institucion": "Instituci\u00f3n 2"
+        "institucion": "Instituci\u00f3n 1"
     },
     "Persona 44": {
         "_id": 44,
         "basicas": {
             "actitudes": {
-                "Madurez": 50,
-                "Responsabilidad": 70,
-                "Empat\u00eda": 98,
-                "Respeto": 86,
-                "Compasi\u00f3n": 44,
-                "Aceptaci\u00f3n Incondicional": 68,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 49,
-                "Observaci\u00f3n": 82
+                "Madurez": 93,
+                "Responsabilidad": 18,
+                "Empat\u00eda": 95,
+                "Respeto": 22,
+                "Compasi\u00f3n": 84,
+                "Aceptaci\u00f3n Incondicional": 89,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 15,
+                "Observaci\u00f3n": 29
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 86,
-                "Manejo de Afectividad": 74,
-                "Planificaci\u00f3n": 59
+                "Habilidades Interpersonales": 63,
+                "Manejo de Afectividad": 63,
+                "Planificaci\u00f3n": 52
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 91,
-                "Valoraci\u00f3n": 93,
-                "Discreci\u00f3n": 90,
+                "Tolerancia": 93,
+                "Valoraci\u00f3n": 56,
+                "Discreci\u00f3n": 97,
                 "Resiliencia": 42,
-                "Adaptabilidad": 96,
-                "Compromiso": 82,
-                "Inter\u00e9s": 90,
-                "Integridad": 65
+                "Adaptabilidad": 45,
+                "Compromiso": 50,
+                "Inter\u00e9s": 53,
+                "Integridad": 73
             },
             "aptitudes": {
-                "Manejo de Grupo": 95,
-                "Mentalidad de Crecimiento": 82,
-                "Aptitudes Organizativas": 54
+                "Manejo de Grupo": 85,
+                "Mentalidad de Crecimiento": 18,
+                "Aptitudes Organizativas": 60
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 99,
-                "Optimismo": 52,
-                "Altruismo": 63,
-                "Autenticidad": 96,
-                "Proactividad": 43,
-                "Credibilidad": 62,
-                "Humildad": 86
+                "Curiosidad": 17,
+                "Optimismo": 99,
+                "Altruismo": 48,
+                "Autenticidad": 83,
+                "Proactividad": 37,
+                "Credibilidad": 32,
+                "Humildad": 38
             },
             "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 52,
-                "Habilidades de Pensamiento Reflexivo": 73
+                "Promover Desarrollo Aut\u00f3nomo": 47,
+                "Habilidades de Pensamiento Reflexivo": 36
             }
         },
         "personalidad": {
-            "Consciencia": 49,
-            "Amabilidad": 73,
-            "Neuroticismo": 98,
-            "Extraversi\u00f3n": 56,
-            "Intelecto-Imaginaci\u00f3n": 60
+            "Consciencia": 82,
+            "Amabilidad": 17,
+            "Neuroticismo": 60,
+            "Extraversi\u00f3n": 78,
+            "Intelecto-Imaginaci\u00f3n": 18
         },
-        "departamento": "Industrial",
+        "departamento": "Qu\u00edmica",
         "region": "Norte",
-        "institucion": "Instituci\u00f3n 2"
+        "institucion": "Instituci\u00f3n 3"
     },
     "Persona 45": {
         "_id": 45,
         "basicas": {
             "actitudes": {
-                "Madurez": 50,
-                "Responsabilidad": 42,
-                "Empat\u00eda": 97,
-                "Respeto": 91,
-                "Compasi\u00f3n": 45,
-                "Aceptaci\u00f3n Incondicional": 85,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 85,
-                "Observaci\u00f3n": 69
+                "Madurez": 86,
+                "Responsabilidad": 15,
+                "Empat\u00eda": 76,
+                "Respeto": 42,
+                "Compasi\u00f3n": 41,
+                "Aceptaci\u00f3n Incondicional": 95,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 60,
+                "Observaci\u00f3n": 63
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 40,
-                "Manejo de Afectividad": 92,
-                "Planificaci\u00f3n": 79
+                "Habilidades Interpersonales": 95,
+                "Manejo de Afectividad": 31,
+                "Planificaci\u00f3n": 92
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 73,
-                "Valoraci\u00f3n": 69,
-                "Discreci\u00f3n": 70,
-                "Resiliencia": 88,
-                "Adaptabilidad": 100,
-                "Compromiso": 80,
-                "Inter\u00e9s": 49,
-                "Integridad": 61
+                "Tolerancia": 34,
+                "Valoraci\u00f3n": 47,
+                "Discreci\u00f3n": 57,
+                "Resiliencia": 63,
+                "Adaptabilidad": 96,
+                "Compromiso": 29,
+                "Inter\u00e9s": 89,
+                "Integridad": 39
             },
             "aptitudes": {
-                "Manejo de Grupo": 69,
-                "Mentalidad de Crecimiento": 68,
-                "Aptitudes Organizativas": 89
+                "Manejo de Grupo": 74,
+                "Mentalidad de Crecimiento": 52,
+                "Aptitudes Organizativas": 35
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 51,
-                "Optimismo": 57,
-                "Altruismo": 63,
-                "Autenticidad": 89,
-                "Proactividad": 57,
-                "Credibilidad": 41,
-                "Humildad": 57
+                "Curiosidad": 94,
+                "Optimismo": 21,
+                "Altruismo": 31,
+                "Autenticidad": 53,
+                "Proactividad": 52,
+                "Credibilidad": 57,
+                "Humildad": 54
             },
             "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 55,
-                "Habilidades de Pensamiento Reflexivo": 81
+                "Promover Desarrollo Aut\u00f3nomo": 66,
+                "Habilidades de Pensamiento Reflexivo": 23
             }
         },
         "personalidad": {
             "Consciencia": 78,
-            "Amabilidad": 55,
-            "Neuroticismo": 100,
-            "Extraversi\u00f3n": 97,
-            "Intelecto-Imaginaci\u00f3n": 71
+            "Amabilidad": 74,
+            "Neuroticismo": 37,
+            "Extraversi\u00f3n": 56,
+            "Intelecto-Imaginaci\u00f3n": 73
         },
-        "departamento": "M\u00e9canica",
-        "region": "Sur",
-        "institucion": "Instituci\u00f3n 2"
+        "departamento": "Industrial",
+        "region": "Norte",
+        "institucion": "Instituci\u00f3n 3"
     },
     "Persona 46": {
         "_id": 46,
         "basicas": {
             "actitudes": {
-                "Madurez": 95,
-                "Responsabilidad": 69,
-                "Empat\u00eda": 58,
-                "Respeto": 66,
-                "Compasi\u00f3n": 80,
-                "Aceptaci\u00f3n Incondicional": 66,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 43,
-                "Observaci\u00f3n": 55
+                "Madurez": 100,
+                "Responsabilidad": 52,
+                "Empat\u00eda": 32,
+                "Respeto": 46,
+                "Compasi\u00f3n": 35,
+                "Aceptaci\u00f3n Incondicional": 26,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 63,
+                "Observaci\u00f3n": 54
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 55,
-                "Manejo de Afectividad": 42,
-                "Planificaci\u00f3n": 77
+                "Habilidades Interpersonales": 23,
+                "Manejo de Afectividad": 56,
+                "Planificaci\u00f3n": 70
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 46,
-                "Valoraci\u00f3n": 67,
-                "Discreci\u00f3n": 81,
-                "Resiliencia": 45,
-                "Adaptabilidad": 44,
-                "Compromiso": 88,
-                "Inter\u00e9s": 70,
-                "Integridad": 48
+                "Tolerancia": 34,
+                "Valoraci\u00f3n": 78,
+                "Discreci\u00f3n": 63,
+                "Resiliencia": 75,
+                "Adaptabilidad": 56,
+                "Compromiso": 37,
+                "Inter\u00e9s": 83,
+                "Integridad": 60
             },
             "aptitudes": {
-                "Manejo de Grupo": 60,
-                "Mentalidad de Crecimiento": 57,
-                "Aptitudes Organizativas": 79
-            }
-        },
-        "avanzadas": {
-            "actitudes": {
-                "Curiosidad": 77,
-                "Optimismo": 56,
-                "Altruismo": 44,
-                "Autenticidad": 73,
-                "Proactividad": 62,
-                "Credibilidad": 49,
-                "Humildad": 46
-            },
-            "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 75,
-                "Habilidades de Pensamiento Reflexivo": 56
-            }
-        },
-        "personalidad": {
-            "Consciencia": 76,
-            "Amabilidad": 99,
-            "Neuroticismo": 66,
-            "Extraversi\u00f3n": 76,
-            "Intelecto-Imaginaci\u00f3n": 55
-        },
-        "departamento": "Civil",
-        "region": "Norte",
-        "institucion": "Instituci\u00f3n 1"
-    },
-    "Persona 47": {
-        "_id": 47,
-        "basicas": {
-            "actitudes": {
-                "Madurez": 51,
-                "Responsabilidad": 64,
-                "Empat\u00eda": 62,
-                "Respeto": 95,
-                "Compasi\u00f3n": 77,
-                "Aceptaci\u00f3n Incondicional": 50,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 96,
-                "Observaci\u00f3n": 64
-            },
-            "aptitudes": {
-                "Habilidades Interpersonales": 94,
-                "Manejo de Afectividad": 41,
-                "Planificaci\u00f3n": 98
-            }
-        },
-        "intermedias": {
-            "actitudes": {
-                "Tolerancia": 59,
-                "Valoraci\u00f3n": 42,
-                "Discreci\u00f3n": 45,
-                "Resiliencia": 63,
-                "Adaptabilidad": 73,
-                "Compromiso": 94,
-                "Inter\u00e9s": 62,
-                "Integridad": 69
-            },
-            "aptitudes": {
-                "Manejo de Grupo": 64,
-                "Mentalidad de Crecimiento": 87,
-                "Aptitudes Organizativas": 100
-            }
-        },
-        "avanzadas": {
-            "actitudes": {
-                "Curiosidad": 70,
-                "Optimismo": 51,
-                "Altruismo": 78,
-                "Autenticidad": 47,
-                "Proactividad": 45,
-                "Credibilidad": 66,
-                "Humildad": 71
-            },
-            "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 48,
-                "Habilidades de Pensamiento Reflexivo": 77
-            }
-        },
-        "personalidad": {
-            "Consciencia": 99,
-            "Amabilidad": 55,
-            "Neuroticismo": 83,
-            "Extraversi\u00f3n": 41,
-            "Intelecto-Imaginaci\u00f3n": 53
-        },
-        "departamento": "M\u00e9canica",
-        "region": "Centro",
-        "institucion": "Instituci\u00f3n 3"
-    },
-    "Persona 48": {
-        "_id": 48,
-        "basicas": {
-            "actitudes": {
-                "Madurez": 71,
-                "Responsabilidad": 45,
-                "Empat\u00eda": 97,
-                "Respeto": 71,
-                "Compasi\u00f3n": 46,
-                "Aceptaci\u00f3n Incondicional": 79,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 71,
-                "Observaci\u00f3n": 49
-            },
-            "aptitudes": {
-                "Habilidades Interpersonales": 74,
-                "Manejo de Afectividad": 53,
-                "Planificaci\u00f3n": 97
-            }
-        },
-        "intermedias": {
-            "actitudes": {
-                "Tolerancia": 86,
-                "Valoraci\u00f3n": 53,
-                "Discreci\u00f3n": 97,
-                "Resiliencia": 97,
-                "Adaptabilidad": 75,
-                "Compromiso": 94,
-                "Inter\u00e9s": 70,
-                "Integridad": 43
-            },
-            "aptitudes": {
-                "Manejo de Grupo": 66,
-                "Mentalidad de Crecimiento": 74,
-                "Aptitudes Organizativas": 99
-            }
-        },
-        "avanzadas": {
-            "actitudes": {
-                "Curiosidad": 69,
-                "Optimismo": 69,
-                "Altruismo": 58,
-                "Autenticidad": 50,
-                "Proactividad": 100,
-                "Credibilidad": 95,
-                "Humildad": 43
-            },
-            "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 86,
-                "Habilidades de Pensamiento Reflexivo": 85
-            }
-        },
-        "personalidad": {
-            "Consciencia": 48,
-            "Amabilidad": 66,
-            "Neuroticismo": 70,
-            "Extraversi\u00f3n": 93,
-            "Intelecto-Imaginaci\u00f3n": 51
-        },
-        "departamento": "Electr\u00f3nica",
-        "region": "Sur",
-        "institucion": "Instituci\u00f3n 3"
-    },
-    "Persona 49": {
-        "_id": 49,
-        "basicas": {
-            "actitudes": {
-                "Madurez": 62,
-                "Responsabilidad": 94,
-                "Empat\u00eda": 90,
-                "Respeto": 86,
-                "Compasi\u00f3n": 50,
-                "Aceptaci\u00f3n Incondicional": 82,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 82,
-                "Observaci\u00f3n": 84
-            },
-            "aptitudes": {
-                "Habilidades Interpersonales": 46,
-                "Manejo de Afectividad": 73,
-                "Planificaci\u00f3n": 62
-            }
-        },
-        "intermedias": {
-            "actitudes": {
-                "Tolerancia": 47,
-                "Valoraci\u00f3n": 45,
-                "Discreci\u00f3n": 59,
-                "Resiliencia": 55,
-                "Adaptabilidad": 85,
-                "Compromiso": 55,
-                "Inter\u00e9s": 79,
-                "Integridad": 89
-            },
-            "aptitudes": {
-                "Manejo de Grupo": 74,
-                "Mentalidad de Crecimiento": 86,
+                "Manejo de Grupo": 97,
+                "Mentalidad de Crecimiento": 40,
                 "Aptitudes Organizativas": 65
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 92,
-                "Optimismo": 52,
-                "Altruismo": 78,
-                "Autenticidad": 63,
-                "Proactividad": 50,
-                "Credibilidad": 58,
-                "Humildad": 57
+                "Curiosidad": 21,
+                "Optimismo": 66,
+                "Altruismo": 91,
+                "Autenticidad": 27,
+                "Proactividad": 70,
+                "Credibilidad": 36,
+                "Humildad": 26
             },
             "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 82,
-                "Habilidades de Pensamiento Reflexivo": 53
+                "Promover Desarrollo Aut\u00f3nomo": 85,
+                "Habilidades de Pensamiento Reflexivo": 48
             }
         },
         "personalidad": {
-            "Consciencia": 47,
-            "Amabilidad": 55,
-            "Neuroticismo": 58,
-            "Extraversi\u00f3n": 75,
-            "Intelecto-Imaginaci\u00f3n": 44
+            "Consciencia": 60,
+            "Amabilidad": 35,
+            "Neuroticismo": 66,
+            "Extraversi\u00f3n": 47,
+            "Intelecto-Imaginaci\u00f3n": 87
+        },
+        "departamento": "M\u00e9canica",
+        "region": "Norte",
+        "institucion": "Instituci\u00f3n 2"
+    },
+    "Persona 47": {
+        "_id": 47,
+        "basicas": {
+            "actitudes": {
+                "Madurez": 31,
+                "Responsabilidad": 95,
+                "Empat\u00eda": 65,
+                "Respeto": 74,
+                "Compasi\u00f3n": 61,
+                "Aceptaci\u00f3n Incondicional": 72,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 85,
+                "Observaci\u00f3n": 43
+            },
+            "aptitudes": {
+                "Habilidades Interpersonales": 83,
+                "Manejo de Afectividad": 40,
+                "Planificaci\u00f3n": 79
+            }
+        },
+        "intermedias": {
+            "actitudes": {
+                "Tolerancia": 69,
+                "Valoraci\u00f3n": 71,
+                "Discreci\u00f3n": 98,
+                "Resiliencia": 83,
+                "Adaptabilidad": 96,
+                "Compromiso": 83,
+                "Inter\u00e9s": 18,
+                "Integridad": 31
+            },
+            "aptitudes": {
+                "Manejo de Grupo": 65,
+                "Mentalidad de Crecimiento": 42,
+                "Aptitudes Organizativas": 71
+            }
+        },
+        "avanzadas": {
+            "actitudes": {
+                "Curiosidad": 25,
+                "Optimismo": 94,
+                "Altruismo": 60,
+                "Autenticidad": 96,
+                "Proactividad": 33,
+                "Credibilidad": 43,
+                "Humildad": 69
+            },
+            "aptitudes": {
+                "Promover Desarrollo Aut\u00f3nomo": 69,
+                "Habilidades de Pensamiento Reflexivo": 77
+            }
+        },
+        "personalidad": {
+            "Consciencia": 27,
+            "Amabilidad": 98,
+            "Neuroticismo": 18,
+            "Extraversi\u00f3n": 15,
+            "Intelecto-Imaginaci\u00f3n": 61
+        },
+        "departamento": "Sistemas",
+        "region": "Centro",
+        "institucion": "Instituci\u00f3n 2"
+    },
+    "Persona 48": {
+        "_id": 48,
+        "basicas": {
+            "actitudes": {
+                "Madurez": 70,
+                "Responsabilidad": 84,
+                "Empat\u00eda": 88,
+                "Respeto": 52,
+                "Compasi\u00f3n": 71,
+                "Aceptaci\u00f3n Incondicional": 89,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 44,
+                "Observaci\u00f3n": 89
+            },
+            "aptitudes": {
+                "Habilidades Interpersonales": 59,
+                "Manejo de Afectividad": 29,
+                "Planificaci\u00f3n": 61
+            }
+        },
+        "intermedias": {
+            "actitudes": {
+                "Tolerancia": 38,
+                "Valoraci\u00f3n": 50,
+                "Discreci\u00f3n": 60,
+                "Resiliencia": 54,
+                "Adaptabilidad": 17,
+                "Compromiso": 90,
+                "Inter\u00e9s": 52,
+                "Integridad": 87
+            },
+            "aptitudes": {
+                "Manejo de Grupo": 57,
+                "Mentalidad de Crecimiento": 47,
+                "Aptitudes Organizativas": 72
+            }
+        },
+        "avanzadas": {
+            "actitudes": {
+                "Curiosidad": 52,
+                "Optimismo": 31,
+                "Altruismo": 31,
+                "Autenticidad": 95,
+                "Proactividad": 60,
+                "Credibilidad": 58,
+                "Humildad": 53
+            },
+            "aptitudes": {
+                "Promover Desarrollo Aut\u00f3nomo": 32,
+                "Habilidades de Pensamiento Reflexivo": 82
+            }
+        },
+        "personalidad": {
+            "Consciencia": 74,
+            "Amabilidad": 28,
+            "Neuroticismo": 17,
+            "Extraversi\u00f3n": 56,
+            "Intelecto-Imaginaci\u00f3n": 43
+        },
+        "departamento": "Civil",
+        "region": "Norte",
+        "institucion": "Instituci\u00f3n 1"
+    },
+    "Persona 49": {
+        "_id": 49,
+        "basicas": {
+            "actitudes": {
+                "Madurez": 31,
+                "Responsabilidad": 30,
+                "Empat\u00eda": 19,
+                "Respeto": 60,
+                "Compasi\u00f3n": 51,
+                "Aceptaci\u00f3n Incondicional": 47,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 45,
+                "Observaci\u00f3n": 33
+            },
+            "aptitudes": {
+                "Habilidades Interpersonales": 19,
+                "Manejo de Afectividad": 63,
+                "Planificaci\u00f3n": 15
+            }
+        },
+        "intermedias": {
+            "actitudes": {
+                "Tolerancia": 56,
+                "Valoraci\u00f3n": 51,
+                "Discreci\u00f3n": 24,
+                "Resiliencia": 81,
+                "Adaptabilidad": 45,
+                "Compromiso": 48,
+                "Inter\u00e9s": 40,
+                "Integridad": 61
+            },
+            "aptitudes": {
+                "Manejo de Grupo": 47,
+                "Mentalidad de Crecimiento": 81,
+                "Aptitudes Organizativas": 57
+            }
+        },
+        "avanzadas": {
+            "actitudes": {
+                "Curiosidad": 25,
+                "Optimismo": 20,
+                "Altruismo": 46,
+                "Autenticidad": 64,
+                "Proactividad": 85,
+                "Credibilidad": 83,
+                "Humildad": 81
+            },
+            "aptitudes": {
+                "Promover Desarrollo Aut\u00f3nomo": 29,
+                "Habilidades de Pensamiento Reflexivo": 95
+            }
+        },
+        "personalidad": {
+            "Consciencia": 15,
+            "Amabilidad": 26,
+            "Neuroticismo": 22,
+            "Extraversi\u00f3n": 71,
+            "Intelecto-Imaginaci\u00f3n": 85
         },
         "departamento": "M\u00e9canica",
         "region": "Sur",
@@ -3041,62 +3041,62 @@
         "_id": 50,
         "basicas": {
             "actitudes": {
-                "Madurez": 70,
-                "Responsabilidad": 64,
-                "Empat\u00eda": 84,
-                "Respeto": 46,
-                "Compasi\u00f3n": 93,
-                "Aceptaci\u00f3n Incondicional": 69,
-                "Orientaci\u00f3n a la Soluci\u00f3n": 86,
-                "Observaci\u00f3n": 78
+                "Madurez": 84,
+                "Responsabilidad": 52,
+                "Empat\u00eda": 23,
+                "Respeto": 89,
+                "Compasi\u00f3n": 27,
+                "Aceptaci\u00f3n Incondicional": 82,
+                "Orientaci\u00f3n a la Soluci\u00f3n": 36,
+                "Observaci\u00f3n": 50
             },
             "aptitudes": {
-                "Habilidades Interpersonales": 72,
-                "Manejo de Afectividad": 93,
-                "Planificaci\u00f3n": 66
+                "Habilidades Interpersonales": 37,
+                "Manejo de Afectividad": 35,
+                "Planificaci\u00f3n": 40
             }
         },
         "intermedias": {
             "actitudes": {
-                "Tolerancia": 82,
-                "Valoraci\u00f3n": 41,
-                "Discreci\u00f3n": 53,
-                "Resiliencia": 57,
-                "Adaptabilidad": 62,
-                "Compromiso": 95,
-                "Inter\u00e9s": 87,
-                "Integridad": 76
+                "Tolerancia": 32,
+                "Valoraci\u00f3n": 65,
+                "Discreci\u00f3n": 92,
+                "Resiliencia": 27,
+                "Adaptabilidad": 46,
+                "Compromiso": 39,
+                "Inter\u00e9s": 64,
+                "Integridad": 74
             },
             "aptitudes": {
-                "Manejo de Grupo": 86,
-                "Mentalidad de Crecimiento": 51,
-                "Aptitudes Organizativas": 71
+                "Manejo de Grupo": 18,
+                "Mentalidad de Crecimiento": 88,
+                "Aptitudes Organizativas": 18
             }
         },
         "avanzadas": {
             "actitudes": {
-                "Curiosidad": 53,
-                "Optimismo": 94,
-                "Altruismo": 100,
-                "Autenticidad": 64,
-                "Proactividad": 72,
-                "Credibilidad": 100,
-                "Humildad": 62
+                "Curiosidad": 88,
+                "Optimismo": 46,
+                "Altruismo": 60,
+                "Autenticidad": 63,
+                "Proactividad": 18,
+                "Credibilidad": 70,
+                "Humildad": 77
             },
             "aptitudes": {
-                "Promover Desarrollo Aut\u00f3nomo": 58,
-                "Habilidades de Pensamiento Reflexivo": 52
+                "Promover Desarrollo Aut\u00f3nomo": 64,
+                "Habilidades de Pensamiento Reflexivo": 29
             }
         },
         "personalidad": {
-            "Consciencia": 70,
-            "Amabilidad": 78,
-            "Neuroticismo": 96,
-            "Extraversi\u00f3n": 63,
-            "Intelecto-Imaginaci\u00f3n": 85
+            "Consciencia": 41,
+            "Amabilidad": 57,
+            "Neuroticismo": 33,
+            "Extraversi\u00f3n": 42,
+            "Intelecto-Imaginaci\u00f3n": 25
         },
-        "departamento": "Electr\u00f3nica",
-        "region": "Norte",
-        "institucion": "Instituci\u00f3n 1"
+        "departamento": "Civil",
+        "region": "Centro",
+        "institucion": "Instituci\u00f3n 2"
     }
 }
