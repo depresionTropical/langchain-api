@@ -124,106 +124,133 @@ def transformar_registros(filtro_region: pd.DataFrame) -> list:
 
 
 
-reporte='''Lorem ipsum dolor sit amet consectetur adipisicing elit. At quibusdam sunt laudantium, consectetur, quo aut eaque nobis eos voluptatibus saepe ipsam culpa, cumque deleniti soluta? Quasi veniam quos ea dignissimos!
-Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam, similique voluptatem eligendi ullam perferendis officia iste labore modi illo corporis minus placeat accusantium. Voluptatibus consectetur veritatis rem. Facilis, porro nesciunt?
-Corporis non mollitia aperiam doloribus nam repellat quam nemo, pariatur sapiente repellendus tempora ab numquam hic eveniet, aut dignissimos quis officiis quas unde, perferendis sint enim! Alias quos ipsa consequatur.
-Ab, rem voluptates amet fugiat animi eveniet! Explicabo molestiae ipsa atque blanditiis odit voluptate et dignissimos tenetur, sapiente voluptatibus necessitatibus nesciunt repudiandae libero sint, cum quisquam. Qui voluptate quod temporibus.
-Minus reiciendis ipsum consequuntur quod eligendi distinctio impedit laudantium, iste modi, quis ex accusantium sed omnis officiis nisi. Velit temporibus nobis dolorum reiciendis numquam ipsa nisi vero hic ullam molestias!
-Praesentium iure iusto odio blanditiis tempore consequuntur ab nam eaque veritatis commodi accusantium placeat odit deserunt beatae quod, alias sit ea ad totam ducimus? Inventore nisi tempore tempora possimus praesentium?
-Esse vitae asperiores accusantium officiis et voluptate obcaecati nam corrupti magnam recusandae dolorem, ipsam aut? Enim ratione, reiciendis beatae odio eaque nemo rerum consequuntur doloremque, eos totam, fugiat esse quia.
-Error iusto placeat laboriosam nesciunt ab fuga hic possimus quas id quia ex obcaecati quaerat nostrum, amet earum non esse. Laboriosam velit totam voluptas. Facilis qui quos libero maiores dolores.
-Vitae iste amet quasi odio voluptatibus quod reprehenderit nostrum non rerum officia exercitationem, sunt, similique ullam recusandae veritatis deleniti a eligendi magni corporis necessitatibus, fugiat sed est cum! Vero, sed?
-Ad magni temporibus voluptatem eveniet similique qui tempore neque fuga, inventore alias, asperiores adipisci ullam quos? Quae recusandae distinctio esse porro corporis? Repudiandae, voluptate maiores. Beatae molestias ab libero ea.
-Aliquam debitis, inventore voluptatibus quasi doloribus sed, illo nisi tenetur amet magni totam ut ipsum sint? Maxime eum voluptatibus sapiente officiis quae necessitatibus, aliquid architecto placeat recusandae iste dolore quas.
-Iusto similique esse veritatis soluta aspernatur nihil rerum dolore provident hic aliquam ex dolorum, recusandae explicabo eveniet, eligendi voluptatibus ut eaque repellat amet iste assumenda cumque dicta deleniti. Libero, expedita?
-Laboriosam, enim atque unde quas, corrupti molestias iusto ducimus voluptate illo deleniti laborum beatae rerum. Velit itaque ad illo adipisci distinctio dolor nemo! Commodi reprehenderit voluptas accusantium iure? Non, iste.
-Sapiente sint eligendi facilis, ut vitae quos explicabo obcaecati? Minus qui illum at doloribus culpa, ipsum animi magnam soluta nemo laborum voluptatibus quis cumque et amet suscipit, distinctio harum maiores!
+reporte='''Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore reiciendis adipisci labore vitae, odit quia velit at inventore dicta tempora doloribus quisquam, iusto fugit vero repellat optio provident sapiente fugiat?
+Rem et labore odio? Sed hic rem iure deleniti neque blanditiis, nulla ea distinctio, maxime perferendis, aut aliquid dolorum recusandae aliquam quae facere illo! Id saepe ipsum optio quidem est!
+Alias eaque assumenda vel laboriosam ratione quisquam perspiciatis voluptates reiciendis error suscipit quasi tempore minima laborum maxime a, nostrum blanditiis eius nulla consequatur cupiditate aliquid perferendis expedita impedit delectus! Nobis.
+Ad porro aut cupiditate dicta. Reiciendis ullam quo, maiores quibusdam voluptates labore eius ab possimus architecto magnam eligendi ea unde, animi rerum laudantium doloremque tempore consequuntur est mollitia ipsum numquam.
+Beatae possimus ipsum pariatur consequuntur error nostrum facilis maiores, doloribus sint laboriosam non atque numquam consectetur recusandae ipsa sapiente tempora repellat! Dignissimos nulla assumenda eos illo ducimus vitae, veniam iusto?
+Eius esse facilis sapiente! In labore tempore magni cum debitis fugiat animi reprehenderit repellendus enim dolores. Quo accusantium sequi reiciendis, in, fugit dignissimos eaque voluptatum error obcaecati iste fuga harum.
+Omnis ipsa doloremque magnam labore cupiditate recusandae a nihil aperiam aliquam necessitatibus, dicta excepturi unde aliquid sit minus quos voluptate tempore quo incidunt! Ullam eligendi doloremque odio nesciunt quae iusto.
 '''
 
 
-def filtro(region=None, institucion=None, departamento = None, nacional= None, id:int = None)->pd.DataFrame:
-  df_agrupado_mean, df= json_to_df()
+def filtro(region=None, institucion=None, departamento=None, nacional=None, id: int = None) -> pd.DataFrame:
+  # Convert JSON data to DataFrame
+  df_agrupado_mean, df = json_to_df()
 
+  # Filter by region, institution, and department
   if departamento is not None and region is not None and institucion is not None:
     df_filtrado = df_agrupado_mean[
-    (df_agrupado_mean['region'] == region) &
-    (df_agrupado_mean['institucion'] == institucion) &
-    (df_agrupado_mean['departamento'] == departamento)
-    ].drop(columns=['region', 'institucion','departamento']).reset_index(drop=True).mean().round(1)
+      (df_agrupado_mean['region'] == region) &
+      (df_agrupado_mean['institucion'] == institucion) &
+      (df_agrupado_mean['departamento'] == departamento)
+    ].drop(columns=['region', 'institucion', 'departamento']).reset_index(drop=True).mean().round(1)
     df_filtrado = df_filtrado.to_frame().T
 
-
+    # Get IDs and names of people in the filtered group
     _id = df[
-    (df['region'] == region) &
-    (df['institucion'] == institucion) &
-    (df['departamento'] == departamento)]._id.to_list()
+      (df['region'] == region) &
+      (df['institucion'] == institucion) &
+      (df['departamento'] == departamento)
+    ]._id.to_list()
     personas = df[df['_id'].isin(_id)].nombre.to_list()
 
-    _id = [[k,v] for k,v in zip(_id,personas)]
-    df_filtrado.loc[:,'id'] = [_id]
-    # df_filtrado.loc[:,'personas'] = [personas]
-    df_filtrado.loc[0, 'reporte'] = reporte
-    df_filtrado.insert(0,'reporte',df_filtrado.pop('reporte'))
-    # df_filtrado.insert(0,'personas',df_filtrado.pop('personas'))
-    df_filtrado.insert(0,'id',df_filtrado.pop('id'))
-    
-    
-    
+    # Combine IDs and names into a list of tuples
+    _id = [[k, v] for k, v in zip(_id, personas)]
+    df_filtrado.loc[:, 'id'] = [_id]
+    df_filtrado.loc[0, 'reporte_A'] = reporte
+    df_filtrado.loc[0, 'reporte_2'] = reporte
+    df_filtrado.loc[0, 'reporte_3'] = reporte
+    df_filtrado.insert(0, 'reporte_3', df_filtrado.pop('reporte_3'))
+    df_filtrado.insert(0, 'reporte_2', df_filtrado.pop('reporte_2'))
+    df_filtrado.insert(0, 'reporte_A', df_filtrado.pop('reporte_A'))
+    df_filtrado.insert(0, 'id', df_filtrado.pop('id'))
+
+  # Filter by region and institution
   elif institucion is not None and region is not None:
     df_filtrado = df_agrupado_mean[
-    (df_agrupado_mean['region'] == region) &
-    (df_agrupado_mean['institucion'] == institucion)
-    ].drop(columns=['region', 'institucion','departamento']).reset_index(drop=True).mean().round(1)
-
+      (df_agrupado_mean['region'] == region) &
+      (df_agrupado_mean['institucion'] == institucion)
+    ].drop(columns=['region', 'institucion', 'departamento']).reset_index(drop=True).mean().round(1)
     df_filtrado = df_filtrado.to_frame().T
 
+    # Get unique departments in the filtered group
     departamento = df_agrupado_mean[
-    (df_agrupado_mean['region'] == region) &
-    (df_agrupado_mean['institucion'] == institucion)
+      (df_agrupado_mean['region'] == region) &
+      (df_agrupado_mean['institucion'] == institucion)
     ].departamento.unique()
 
-
     df_filtrado.loc[0, 'departamento'] = departamento
-    df_filtrado.loc[0, 'reporte'] = reporte
-    df_filtrado.insert(0,'reporte',df_filtrado.pop('reporte'))
-    df_filtrado.insert(0,'departamento',df_filtrado.pop('departamento'))
-    
+    df_filtrado.loc[0, 'reporte_A'] = reporte
+    df_filtrado.loc[0, 'reporte_B'] = reporte
+    df_filtrado.loc[0, 'reporte_C'] = reporte
+    df_filtrado.insert(0, 'reporte_C', df_filtrado.pop('reporte_C'))
+    df_filtrado.insert(0, 'reporte_B', df_filtrado.pop('reporte_B'))
+    df_filtrado.insert(0, 'reporte_A', df_filtrado.pop('reporte_A'))
+    df_filtrado.insert(0, 'departamento', df_filtrado.pop('departamento'))
 
+  # Filter by region
   elif region is not None:
     df_filtrado = df_agrupado_mean[
-    (df_agrupado_mean['region'] == region)
-    ].drop(columns=['region','departamento','institucion']).reset_index(drop=True).mean().round(1)
-
+      (df_agrupado_mean['region'] == region)
+    ].drop(columns=['region', 'departamento', 'institucion']).reset_index(drop=True).mean().round(1)
     df_filtrado = df_filtrado.to_frame().T
 
+    # Get unique institutions in the filtered group
     institucion = df_agrupado_mean[
-    (df_agrupado_mean['region'] == region)
-    ].institucion.unique()  
+      (df_agrupado_mean['region'] == region)
+    ].institucion.unique()
 
     df_filtrado.loc[0, 'institucion'] = institucion
-    df_filtrado.loc[0, 'reporte'] = reporte
-    df_filtrado.insert(0,'reporte',df_filtrado.pop('reporte'))
-    df_filtrado.insert(0,'institucion',df_filtrado.pop('institucion'))
-  elif nacional =='Nacional':
+    df_filtrado.loc[0, 'reporte_A'] = reporte
+    df_filtrado.loc[0, 'reporte_B'] = reporte
+    df_filtrado.loc[0, 'reporte_C'] = reporte
+    df_filtrado.insert(0, 'reporte_C', df_filtrado.pop('reporte_C'))
+    df_filtrado.insert(0, 'reporte_B', df_filtrado.pop('reporte_B'))
+    df_filtrado.insert(0, 'reporte_A', df_filtrado.pop('reporte_A'))
+    df_filtrado.insert(0, 'institucion', df_filtrado.pop('institucion'))
+
+  # Filter for national level
+  elif nacional == 'Nacional':
     df_filtrado = df_agrupado_mean.groupby('region').mean(numeric_only=True).reset_index().round(1)
     df_filtrado = df_filtrado.mean(numeric_only=True).round(1)
     df_filtrado = df_filtrado.to_frame().T
 
+    # Get unique regions
     region = df_agrupado_mean.region.unique()
     df_filtrado.loc[0, 'region'] = region
-    df_filtrado.loc[0, 'reporte'] = reporte
+    df_filtrado.loc[0, 'reporte_A'] = reporte
+    df_filtrado.loc[0, 'reporte_B'] = reporte
+    df_filtrado.loc[0, 'reporte_C'] = reporte
+    df_filtrado.insert(0, 'reporte_C', df_filtrado.pop('reporte_C'))
+    df_filtrado.insert(0, 'reporte_B', df_filtrado.pop('reporte_B'))
+    df_filtrado.insert(0, 'reporte_A', df_filtrado.pop('reporte_A'))
+    df_filtrado.insert(0, 'region', df_filtrado.pop('region'))
 
-    df_filtrado.insert(0,'reporte',df_filtrado.pop('reporte'))
-    df_filtrado.insert(0,'region',df_filtrado.pop('region'))
-    
+  # Filter by ID
   elif id is not None:
-    df['reporte'] = reporte
-    df_filtrado= df[df['_id']==id].drop(columns=['_id'])
-    df_filtrado.insert(0,'reporte',df_filtrado.pop('reporte'))
-    df_filtrado.insert(0,'nombre',df_filtrado.pop('nombre'))
     
-  return transformar_registros(df_filtrado)
-  
+    df_filtrado = df[df['_id'] == id].drop(columns=['_id'])
+    df_filtrado.reset_index(drop=True, inplace=True)
+    df_filtrado.loc[0, 'retroalimentacion_A'] = reporte
+    df_filtrado.loc[0, 'retroalimentacion_B'] = reporte
+    df_filtrado.loc[0, 'retroalimentacion_C'] = reporte
+    df_filtrado.insert(0, 'retroalimentacion_C', df_filtrado.pop('retroalimentacion_C'))
+    df_filtrado.insert(0, 'retroalimentacion_B', df_filtrado.pop('retroalimentacion_B'))
+    df_filtrado.insert(0, 'retroalimentacion_A', df_filtrado.pop('retroalimentacion_A'))
+
+    df_filtrado.loc[0, 'reporte_A'] = reporte
+    df_filtrado.loc[0, 'reporte_B'] = reporte
+    df_filtrado.loc[0, 'reporte_C'] = reporte
+    df_filtrado.insert(0, 'reporte_C', df_filtrado.pop('reporte_C'))
+    df_filtrado.insert(0, 'reporte_B', df_filtrado.pop('reporte_B'))
+    df_filtrado.insert(0, 'reporte_A', df_filtrado.pop('reporte_A'))
+    
+    df_filtrado.insert(0, 'nombre', df_filtrado.pop('nombre'))
+
+  # Transform the filtered DataFrame into a list of dictionaries
+    
+  return transformar_registros(df_filtrado) 
 
 
 df_con_filtro =filtro(
@@ -251,6 +278,6 @@ df_con_filtro
 
 
 if __name__ =='__main__':
-  df_con_filtro =filtro(nacional='Nacional')
+  df_con_filtro =filtro(id=3)
   print(df_con_filtro)
 
