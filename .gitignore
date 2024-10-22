@@ -11,6 +11,7 @@ registros.json
 
 .env
 
+<<<<<<< HEAD
 __pycache__
 
 # Byte-compiled / optimized / DLL files
@@ -121,3 +122,6 @@ venv.bak/
 
 # Mac OS
 .DS_Store
+=======
+__pycache__
+>>>>>>> d48b72c332c18df1d802413822342f25dad16bad
