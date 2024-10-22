@@ -1,0 +1,14 @@
+
+.venv
+
+.data
+
+.templates
+templates
+
+
+registros.json
+
+.env
+
+__pycache__
