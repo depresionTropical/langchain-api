@@ -124,13 +124,10 @@ def transformar_registros(filtro_region: pd.DataFrame) -> list:
 
 
 
-reporte='''Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore reiciendis adipisci labore vitae, odit quia velit at inventore dicta tempora doloribus quisquam, iusto fugit vero repellat optio provident sapiente fugiat?
-Rem et labore odio? Sed hic rem iure deleniti neque blanditiis, nulla ea distinctio, maxime perferendis, aut aliquid dolorum recusandae aliquam quae facere illo! Id saepe ipsum optio quidem est!
-Alias eaque assumenda vel laboriosam ratione quisquam perspiciatis voluptates reiciendis error suscipit quasi tempore minima laborum maxime a, nostrum blanditiis eius nulla consequatur cupiditate aliquid perferendis expedita impedit delectus! Nobis.
-Ad porro aut cupiditate dicta. Reiciendis ullam quo, maiores quibusdam voluptates labore eius ab possimus architecto magnam eligendi ea unde, animi rerum laudantium doloremque tempore consequuntur est mollitia ipsum numquam.
-Beatae possimus ipsum pariatur consequuntur error nostrum facilis maiores, doloribus sint laboriosam non atque numquam consectetur recusandae ipsa sapiente tempora repellat! Dignissimos nulla assumenda eos illo ducimus vitae, veniam iusto?
-Eius esse facilis sapiente! In labore tempore magni cum debitis fugiat animi reprehenderit repellendus enim dolores. Quo accusantium sequi reiciendis, in, fugit dignissimos eaque voluptatum error obcaecati iste fuga harum.
-Omnis ipsa doloremque magnam labore cupiditate recusandae a nihil aperiam aliquam necessitatibus, dicta excepturi unde aliquid sit minus quos voluptate tempore quo incidunt! Ullam eligendi doloremque odio nesciunt quae iusto.
+reporte='''Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quaerat quia adipisci laboriosam tenetur sed animi omnis tempora quas totam officia ipsam neque delectus, numquam ratione est dolorum amet facere accusamus.
+Quibusdam, tempora harum dolores ipsa quos inventore, aliquam consequatur cum ab tempore consectetur voluptatibus aperiam nemo. Rem labore quis reiciendis iusto maxime, animi ad obcaecati provident possimus sed laboriosam placeat.
+Necessitatibus nobis sunt odit quaerat fugiat. Debitis deleniti vel quasi. Iste, deserunt? Itaque odio sequi vel quod eum est? Assumenda odio ut voluptate qui quos illo est porro officiis sit!
+Quo error rem quasi distinctio reiciendis officiis dolores vel voluptates, nisi est. Quod, velit. Unde esse saepe vitae eum soluta atque quaerat officiis, tenetur assumenda placeat odio architecto amet consequatur?
 '''
 
 
