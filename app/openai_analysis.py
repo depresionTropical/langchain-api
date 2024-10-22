@@ -8,12 +8,12 @@ load_dotenv()
 # Inicializar el cliente de OpenAI
 openai.api_key = os.getenv("OPENAI_API_KEY")
 
-def generate_feedback_from_openai(competencias: dict, output_format: str) -> str:
+def generate_feedback_from_openai(competencias: dict, output_format: str,reporte:dict) -> str:
     """
     Genera una retroalimentación usando OpenAI basada en las competencias y el formato deseado.
     """
     # Crear el prompt en base al formato
-    prompt = f"Aquí tienes los datos de competencias de una persona. Realiza una retroalimentación en formato {output_format}, usando markdown. No incluyas ninguna información personal, solo describe cómo es esta persona según sus competencias y personalidad. Primero menciona los aspectos positivos y luego los negativos. Por favor, habla de manera impersonal y sin mencionar explícitamente las competencias. Luego, agrega recomendaciones para mejorar."
+    prompt = f"Aquí tienes los datos de competencias de {reporte['tipo']}. Realiza una retroalimentación en formato {output_format}, usando markdown. {reporte['caracteristica']}. Primero menciona los aspectos positivos y luego los negativos. Por favor, habla de manera impersonal y sin mencionar explícitamente las competencias. Luego, agrega recomendaciones para mejorar."
 
     # Incluir los puntajes en el prompt
     prompt += "\n\nCompetencias:\n"
@@ -101,6 +101,13 @@ if __name__ == "__main__":
         "competencias_intermedias": competencias_intermedias,
         "competencias_avanzadas": competencias_avanzadas,
         "personalidad": personalidad
+    }
+    reporte = {
+        'tutor_retro':{
+            "tipo": "tutor",
+            "caracteristica": "Evalúa su desempeño en las competencias y personal"
+        }
+
     }
     
     # Generar los reportes
